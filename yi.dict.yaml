@@ -3,7 +3,7 @@
 
 ---
 name: yi
-version: "1.0.6"
+version: "1.0.7"
 columns:
   - text
   - code
