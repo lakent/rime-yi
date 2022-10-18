@@ -26,7 +26,7 @@
 - 字海两分速成：u
 
 [Rime]: rime.im
-[逸码輸入方案]: github.com/lakent/yi
+[逸码输入方案]: https://github.com/lakent/yi
 [字海两分速成]: http://cheonhyeong.com/Simplified/download.html
 [袖珍简化字拼音]: https://github.com/rime/rime-pinyin-simp
 [东风破]: https://github.com/rime/plum
