@@ -65,7 +65,7 @@ translator:
 
 pinyin_lookup:
   tag: pinyin_lookup
-  dictionary: aurora_pinyin
+  dictionary: rime-pinyin-simp
   prefix: "e"
   tips: "〔拼音反查〕"
 
