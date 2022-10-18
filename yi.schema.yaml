@@ -10,7 +10,7 @@ schema:
   description: |
     26码元单字顶功输入法
   dependencies:
-    - aurora_pinyin
+    - pinyin_simp
     - sucheng
 
 switches:
@@ -65,7 +65,7 @@ translator:
 
 pinyin_lookup:
   tag: pinyin_lookup
-  dictionary: rime-pinyin-simp
+  dictionary: pinyin_simp
   prefix: "e"
   tips: "〔拼音反查〕"
 
