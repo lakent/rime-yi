@@ -1,0 +1,10 @@
+# Rime dictionary: yi
+# encoding: utf-8
+
+---
+name: yi
+version: "1.0.0"
+columns:
+  - text
+  - code
+...

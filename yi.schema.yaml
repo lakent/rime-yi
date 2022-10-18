@@ -1,0 +1,109 @@
+# Rime schema
+# encoding: utf-8
+
+schema:
+  name: 逸码
+  schema_id: yi
+  version: "1.0"
+  author:
+    - 小泥巴
+  description: |
+    26码元单字顶功输入法
+  dependencies:
+    - aurora_pinyin
+    - sucheng
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [中文, 西文]
+  - name: full_shape
+    states: [半角, 全角]
+  - name: simplification
+    states: [繁体, 简体]
+  - name: ascii_punct
+    states: [。，, ．，]
+  - name: spelling
+    reset: 1
+    states: [ "编码", "拆分" ]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - affix_segmentor@pinyin_lookup
+    - affix_segmentor@sucheng_lookup
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - table_translator
+    - script_translator@pinyin_lookup
+    - script_translator@sucheng_lookup
+  filters:
+    - uniquifier
+    - reverse_lookup_filter@sucheng_reverse_lookup
+    - reverse_lookup_filter@pinyin_reverse_lookup
+    - simplifier@spelling
+
+speller:
+  auto_select: true
+
+translator:
+  dictionary: yi
+  enable_completion: true
+
+pinyin_lookup:
+  tag: pinyin_lookup
+  dictionary: aurora_pinyin
+  prefix: "e"
+  tips: "〔拼音反查〕"
+
+pinyin_reverse_lookup:
+  tags: [ pinyin_lookup ] 
+  overwrite_comment: true
+  dictionary: yi
+
+sucheng_lookup:
+  tag: sucheng_lookup
+  dictionary: sucheng
+  prefix: "u"
+  tips: "〔速成反查〕"
+
+sucheng_reverse_lookup:
+  tags: [ sucheng_lookup ] 
+  overwrite_comment: true
+  dictionary: yi
+
+spelling:
+  option_name: spelling
+  opencc_config: yi_spelling.json
+  tags: [ pinyin_lookup,sucheng_lookup ]
+  tips: all
+  show_in_comment: true
+  comment_format:
+    - "xform/$/〕/"
+    - "xform/^/〔/"
+
+punctuator:
+  import_preset: symbols
+
+key_binder:
+  bindings:
+    - { when: paging, accept: minus, send: Page_Up }
+    - { when: has_menu, accept: equal, send: Page_Down }
+
+recognizer:
+  patterns:
+    sucheng_lookup: "^u[a-z]*'?$"
+    pinyin_lookup: "^e[a-z]*'?$"
