@@ -983,7 +983,7 @@
 喊	kkei·口戊一丨ㄋ一
 峰	yn·山夂一一一丨
 灯	pae·火丁一丨丨丨
-绿	xci·纟丨ㄋ丿丶
+绿	xci·纟丨丶一丿
 夏	db·丆目丿ㄋ丶丶
 塔	lfor·土艹丿丶一丨
 桌	lwe·⺊日一丨丿丶
@@ -1258,7 +1258,7 @@
 乌	ktee·勹㇉一一一一
 碎	dbo·石亠丿丶丿丶
 搞	ggi·扌丨ㄋ一一
-录	cni·水丨ㄋ丿丶
+录	cni·氺丨丶一丿
 赞	ggiu·先先丨ㄋ丿丶
 迅	ppr·十丶ㄋ丶丶
 佩	jae·亻几一丨ㄋ丨
@@ -2360,7 +2360,7 @@
 烁	ppio·火丨丿丶丶
 匪	vzi·匚非丨一一一
 桐	tsei·木冂一丨ㄋ一
-剥	cnii·水丨丨丨丨
+剥	cnii·氺丨丨丨丨
 堵	lfe·土者一丨一丿
 俞	qhii·亼⺝丨丨丨丨
 棵	twei·木日一丨丿丶
@@ -2606,7 +2606,7 @@
 蒸	fcu·艹了ㄋ丿丶一
 诈	szo·讠乍丿一丨一
 杏	tkiu·木口丨ㄋ一一
-碌	dci·石丨ㄋ丿丶
+碌	dci·石丨丶一丿
 殖	bhei·歹直一丨丨ㄋ
 嵌	ydou·山甘丿ㄋ丿丶
 捡	gqr·扌亼丶丶丿一
@@ -2754,7 +2754,7 @@
 擎	dkoeo·芍口丿一丿丶
 嗤	kyeiu·口屮一丨ㄋ一
 衙	fjiue·彳五丨ㄋ一一
-菌	fkeio·艹囗一丨丿丶
+菌	fkoe·艹囗丿一丨丿
 聘	yaeu·耳由一ㄋㄋㄋ
 膏	gkiuee·口丨ㄋ一一
 遁	apiu·十丨ㄋ一一
@@ -3447,7 +3447,7 @@
 袄	hfoe·衤夭丿一丿丶
 亢	baou·亠几丿ㄋㄋㄋ
 惋	hvou·忄宀丿ㄋ丶ㄋ
-氯	vciuo·气丨ㄋ丿丶
+氯	vciuo·气丨丶一丿
 匡	vsee·匚王一一丨一
 糙	qjru·米告丶ㄋ丶丶
 屿	yqe·山与一一一一
@@ -4986,7 +4986,7 @@
 掼	gviu·扌毌丨ㄋ丿丶
 囵	kaor·囗仑丿丶丿ㄋ
 芪	fmou·艹氏丿ㄋ一ㄋ
-箓	lciuo·丨ㄋ丿丶
+箓	lciuo·丨丶一丿
 牖	kteiue·片户一丨ㄋ一
 濛	nweeo·氵一一丿ㄋ
 澧	naeiu·氵曲一丨ㄋ一
@@ -5344,7 +5344,7 @@
 垓	lhreu·土亥丶一ㄋ丿
 蚋	bliu·虫内丨ㄋ丿丶
 爻	hhorr·乂乂丿丶丶丶
-渌	nciuo·氵丨ㄋ丿丶
+渌	nciuo·氵丨丶一丿
 槭	tkie·木戊丨一一丨
 阃	fkeior·门囗一丨丿丶
 酢	tzoei·酉乍丿一丨一
@@ -6292,7 +6292,7 @@
 觏	pseie·冂一丨一丨
 襕	hfeiue·衤门一丨ㄋ一
 袪	hweieu·衤去一丨一ㄋ
-菉	fciuo·艹丨ㄋ丿丶
+菉	fciuo·艹丨丶一丿
 芾	fjiui·艹一丨ㄋ丨丨
 胂	hwii·月日丨丨丨丨
 耜	dhiueu·耒㠯丨ㄋ一ㄋ
@@ -6562,7 +6562,7 @@
 魆	skeu·鬼戉一ㄋㄋ丿
 鄄	tlui·覀土ㄋ丨丨丨
 逴	lweir·⺊日一丨丶ㄋ
-逯	cnru·水丶ㄋ丶丶
+逯	cnru·氺丶ㄋ丶丶
 踦	zkeiu·大一丨ㄋ一
 赇	dweire·贝求一丨丶一
 谂	sqru·讠今丶ㄋ丶丶
@@ -6921,7 +6921,7 @@
 璆	syoro·王羽丿丶丿丿
 瑢	sdor·王穴丿丶丨ㄋ
 琯	sviu·王宀丨ㄋ一ㄋ
-琭	sciuor·王丨ㄋ丿丶
+琭	sciuor·王丨丶一丿
 琤	sbouu·王争丿ㄋㄋ一
 獯	pniu·犭千丨ㄋ丶丿
 猰	pxuo·犭丰ㄋ丿一丿
@@ -7961,7 +7961,7 @@
 𬺓	hmuieo·马爫ㄋㄋ丶一
 𬺓	hmuieo·马厂丿丨ㄋ一
 𬺓	hmuieo·马是丨ㄋ一一
-𬺓	hmuieo·马丨ㄋ丿丶
+𬺓	hmuieo·马丨丶一丿
 𬺓	hmuieo·马勹丿一一丨
 𬺓	hmuieo·马丿丶丶丶
 𬺓	hmuieo·马文丶一丿丶
@@ -8156,7 +8156,7 @@
 𬺈	hkeiue·马爫ㄋㄋ丶一
 𬺈	hkeiue·马厂丿丨ㄋ一
 𬺈	hkeiue·马是丨ㄋ一一
-𬺈	hkeiue·马丨ㄋ丿丶
+𬺈	hkeiue·马丨丶一丿
 𬺈	hkeiue·马勹丿一一丨
 𬺈	hkeiue·马丿丶丶丶
 𬺈	hkeiue·马文丶一丿丶
@@ -8351,7 +8351,7 @@
 𬹼	hdoii·马爫ㄋㄋ丶一
 𬹼	hdoii·马厂丿丨ㄋ一
 𬹼	hdoii·马是丨ㄋ一一
-𬹼	hdoii·马丨ㄋ丿丶
+𬹼	hdoii·马丨丶一丿
 𬹼	hdoii·马勹丿一一丨
 𬹼	hdoii·马丿丶丶丶
 𬹼	hdoii·马文丶一丿丶
@@ -8546,7 +8546,7 @@
 𬸪	mgou·马爫ㄋㄋ丶一
 𬸪	mgou·马厂丿丨ㄋ一
 𬸪	mgou·马是丨ㄋ一一
-𬸪	mgou·马丨ㄋ丿丶
+𬸪	mgou·马丨丶一丿
 𬸪	mgou·马勹丿一一丨
 𬸪	mgou·马丿丶丶丶
 𬸪	mgou·马文丶一丿丶
@@ -8741,7 +8741,7 @@
 𬸦	dmou·马爫ㄋㄋ丶一
 𬸦	dmou·马厂丿丨ㄋ一
 𬸦	dmou·马是丨ㄋ一一
-𬸦	dmou·马丨ㄋ丿丶
+𬸦	dmou·马丨丶一丿
 𬸦	dmou·马勹丿一一丨
 𬸦	dmou·马丿丶丶丶
 𬸦	dmou·马文丶一丿丶
@@ -8936,7 +8936,7 @@
 𬸣	hfouru·马爫ㄋㄋ丶一
 𬸣	hfouru·马厂丿丨ㄋ一
 𬸣	hfouru·马是丨ㄋ一一
-𬸣	hfouru·马丨ㄋ丿丶
+𬸣	hfouru·马丨丶一丿
 𬸣	hfouru·马勹丿一一丨
 𬸣	hfouru·马丿丶丶丶
 𬸣	hfouru·马文丶一丿丶
@@ -9131,7 +9131,7 @@
 𬸚	pseor·马爫ㄋㄋ丶一
 𬸚	pseor·马厂丿丨ㄋ一
 𬸚	pseor·马是丨ㄋ一一
-𬸚	pseor·马丨ㄋ丿丶
+𬸚	pseor·马丨丶一丿
 𬸚	pseor·马勹丿一一丨
 𬸚	pseor·马丿丶丶丶
 𬸚	pseor·马文丶一丿丶
@@ -9326,7 +9326,7 @@
 𬸘	vwuoeo·马爫ㄋㄋ丶一
 𬸘	vwuoeo·马厂丿丨ㄋ一
 𬸘	vwuoeo·马是丨ㄋ一一
-𬸘	vwuoeo·马丨ㄋ丿丶
+𬸘	vwuoeo·马丨丶一丿
 𬸘	vwuoeo·马勹丿一一丨
 𬸘	vwuoeo·马丿丶丶丶
 𬸘	vwuoeo·马文丶一丿丶
@@ -9521,7 +9521,7 @@
 𬷕	ffouru·马爫ㄋㄋ丶一
 𬷕	ffouru·马厂丿丨ㄋ一
 𬷕	ffouru·马是丨ㄋ一一
-𬷕	ffouru·马丨ㄋ丿丶
+𬷕	ffouru·马丨丶一丿
 𬷕	ffouru·马勹丿一一丨
 𬷕	ffouru·马丿丶丶丶
 𬷕	ffouru·马文丶一丿丶
@@ -9716,7 +9716,7 @@
 𬶮	daiue·马爫ㄋㄋ丶一
 𬶮	daiue·马厂丿丨ㄋ一
 𬶮	daiue·马是丨ㄋ一一
-𬶮	daiue·马丨ㄋ丿丶
+𬶮	daiue·马丨丶一丿
 𬶮	daiue·马勹丿一一丨
 𬶮	daiue·马丿丶丶丶
 𬶮	daiue·马文丶一丿丶
@@ -9911,7 +9911,7 @@
 𬶭	dyeei·马爫ㄋㄋ丶一
 𬶭	dyeei·马厂丿丨ㄋ一
 𬶭	dyeei·马是丨ㄋ一一
-𬶭	dyeei·马丨ㄋ丿丶
+𬶭	dyeei·马丨丶一丿
 𬶭	dyeei·马勹丿一一丨
 𬶭	dyeei·马丿丶丶丶
 𬶭	dyeei·马文丶一丿丶
@@ -10106,7 +10106,7 @@
 𬶨	tnou·马爫ㄋㄋ丶一
 𬶨	tnou·马厂丿丨ㄋ一
 𬶨	tnou·马是丨ㄋ一一
-𬶨	tnou·马丨ㄋ丿丶
+𬶨	tnou·马丨丶一丿
 𬶨	tnou·马勹丿一一丨
 𬶨	tnou·马丿丶丶丶
 𬶨	tnou·马文丶一丿丶
@@ -10301,7 +10301,7 @@
 𬶠	dzr·马爫ㄋㄋ丶一
 𬶠	dzr·马厂丿丨ㄋ一
 𬶠	dzr·马是丨ㄋ一一
-𬶠	dzr·马丨ㄋ丿丶
+𬶠	dzr·马丨丶一丿
 𬶠	dzr·马勹丿一一丨
 𬶠	dzr·马丿丶丶丶
 𬶠	dzr·马文丶一丿丶
@@ -10496,7 +10496,7 @@
 𬶟	dzii·马爫ㄋㄋ丶一
 𬶟	dzii·马厂丿丨ㄋ一
 𬶟	dzii·马是丨ㄋ一一
-𬶟	dzii·马丨ㄋ丿丶
+𬶟	dzii·马丨丶一丿
 𬶟	dzii·马勹丿一一丨
 𬶟	dzii·马丿丶丶丶
 𬶟	dzii·马文丶一丿丶
@@ -10691,7 +10691,7 @@
 𬶐	dxre·马爫ㄋㄋ丶一
 𬶐	dxre·马厂丿丨ㄋ一
 𬶐	dxre·马是丨ㄋ一一
-𬶐	dxre·马丨ㄋ丿丶
+𬶐	dxre·马丨丶一丿
 𬶐	dxre·马勹丿一一丨
 𬶐	dxre·马丿丶丶丶
 𬶐	dxre·马文丶一丿丶
@@ -10886,7 +10886,7 @@
 𬶏	dhuuu·马爫ㄋㄋ丶一
 𬶏	dhuuu·马厂丿丨ㄋ一
 𬶏	dhuuu·马是丨ㄋ一一
-𬶏	dhuuu·马丨ㄋ丿丶
+𬶏	dhuuu·马丨丶一丿
 𬶏	dhuuu·马勹丿一一丨
 𬶏	dhuuu·马丿丶丶丶
 𬶏	dhuuu·马文丶一丿丶
@@ -11081,7 +11081,7 @@
 𬶍	dvouu·马爫ㄋㄋ丶一
 𬶍	dvouu·马厂丿丨ㄋ一
 𬶍	dvouu·马是丨ㄋ一一
-𬶍	dvouu·马丨ㄋ丿丶
+𬶍	dvouu·马丨丶一丿
 𬶍	dvouu·马勹丿一一丨
 𬶍	dvouu·马丿丶丶丶
 𬶍	dvouu·马文丶一丿丶
@@ -11276,7 +11276,7 @@
 𬶋	dkiuee·马爫ㄋㄋ丶一
 𬶋	dkiuee·马厂丿丨ㄋ一
 𬶋	dkiuee·马是丨ㄋ一一
-𬶋	dkiuee·马丨ㄋ丿丶
+𬶋	dkiuee·马丨丶一丿
 𬶋	dkiuee·马勹丿一一丨
 𬶋	dkiuee·马丿丶丶丶
 𬶋	dkiuee·马文丶一丿丶
@@ -11471,7 +11471,7 @@
 𬴊	aqo·马爫ㄋㄋ丶一
 𬴊	aqo·马厂丿丨ㄋ一
 𬴊	aqo·马是丨ㄋ一一
-𬴊	aqo·马丨ㄋ丿丶
+𬴊	aqo·马丨丶一丿
 𬴊	aqo·马勹丿一一丨
 𬴊	aqo·马丿丶丶丶
 𬴊	aqo·马文丶一丿丶
@@ -11666,7 +11666,7 @@
 𬴃	axe·马爫ㄋㄋ丶一
 𬴃	axe·马厂丿丨ㄋ一
 𬴃	axe·马是丨ㄋ一一
-𬴃	axe·马丨ㄋ丿丶
+𬴃	axe·马丨丶一丿
 𬴃	axe·马勹丿一一丨
 𬴃	axe·马丿丶丶丶
 𬴃	axe·马文丶一丿丶
@@ -11861,7 +11861,7 @@
 𬴂	azie·马爫ㄋㄋ丶一
 𬴂	azie·马厂丿丨ㄋ一
 𬴂	azie·马是丨ㄋ一一
-𬴂	azie·马丨ㄋ丿丶
+𬴂	azie·马丨丶一丿
 𬴂	azie·马勹丿一一丨
 𬴂	azie·马丿丶丶丶
 𬴂	azie·马文丶一丿丶
@@ -12056,7 +12056,7 @@
 𬳿	aqe·马爫ㄋㄋ丶一
 𬳿	aqe·马厂丿丨ㄋ一
 𬳿	aqe·马是丨ㄋ一一
-𬳿	aqe·马丨ㄋ丿丶
+𬳿	aqe·马丨丶一丿
 𬳿	aqe·马勹丿一一丨
 𬳿	aqe·马丿丶丶丶
 𬳿	aqe·马文丶一丿丶
@@ -12251,7 +12251,7 @@
 𬳽	agoe·马爫ㄋㄋ丶一
 𬳽	agoe·马厂丿丨ㄋ一
 𬳽	agoe·马是丨ㄋ一一
-𬳽	agoe·马丨ㄋ丿丶
+𬳽	agoe·马丨丶一丿
 𬳽	agoe·马勹丿一一丨
 𬳽	agoe·马丿丶丶丶
 𬳽	agoe·马文丶一丿丶
@@ -12446,7 +12446,7 @@
 𬳶	asiuee·马爫ㄋㄋ丶一
 𬳶	asiuee·马厂丿丨ㄋ一
 𬳶	asiuee·马是丨ㄋ一一
-𬳶	asiuee·马丨ㄋ丿丶
+𬳶	asiuee·马丨丶一丿
 𬳶	asiuee·马勹丿一一丨
 𬳶	asiuee·马丿丶丶丶
 𬳶	asiuee·马文丶一丿丶
@@ -12641,7 +12641,7 @@
 𬳵	ahee·马爫ㄋㄋ丶一
 𬳵	ahee·马厂丿丨ㄋ一
 𬳵	ahee·马是丨ㄋ一一
-𬳵	ahee·马丨ㄋ丿丶
+𬳵	ahee·马丨丶一丿
 𬳵	ahee·马勹丿一一丨
 𬳵	ahee·马丿丶丶丶
 𬳵	ahee·马文丶一丿丶
@@ -12836,7 +12836,7 @@
 𬱟	hgeo·马爫ㄋㄋ丶一
 𬱟	hgeo·马厂丿丨ㄋ一
 𬱟	hgeo·马是丨ㄋ一一
-𬱟	hgeo·马丨ㄋ丿丶
+𬱟	hgeo·马丨丶一丿
 𬱟	hgeo·马勹丿一一丨
 𬱟	hgeo·马丿丶丶丶
 𬱟	hgeo·马文丶一丿丶
@@ -13031,7 +13031,7 @@
 𬱖	aneoi·马爫ㄋㄋ丶一
 𬱖	aneoi·马厂丿丨ㄋ一
 𬱖	aneoi·马是丨ㄋ一一
-𬱖	aneoi·马丨ㄋ丿丶
+𬱖	aneoi·马丨丶一丿
 𬱖	aneoi·马勹丿一一丨
 𬱖	aneoi·马丿丶丶丶
 𬱖	aneoi·马文丶一丿丶
@@ -13226,7 +13226,7 @@
 𬯎	yliuor·马爫ㄋㄋ丶一
 𬯎	yliuor·马厂丿丨ㄋ一
 𬯎	yliuor·马是丨ㄋ一一
-𬯎	yliuor·马丨ㄋ丿丶
+𬯎	yliuor·马丨丶一丿
 𬯎	yliuor·马勹丿一一丨
 𬯎	yliuor·马丿丶丶丶
 𬯎	yliuor·马文丶一丿丶
@@ -13421,7 +13421,7 @@
 𬯀	ynoi·马爫ㄋㄋ丶一
 𬯀	ynoi·马厂丿丨ㄋ一
 𬯀	ynoi·马是丨ㄋ一一
-𬯀	ynoi·马丨ㄋ丿丶
+𬯀	ynoi·马丨丶一丿
 𬯀	ynoi·马勹丿一一丨
 𬯀	ynoi·马丿丶丶丶
 𬯀	ynoi·马文丶一丿丶
@@ -13616,7 +13616,7 @@
 𬮿	ygouu·马爫ㄋㄋ丶一
 𬮿	ygouu·马厂丿丨ㄋ一
 𬮿	ygouu·马是丨ㄋ一一
-𬮿	ygouu·马丨ㄋ丿丶
+𬮿	ygouu·马丨丶一丿
 𬮿	ygouu·马勹丿一一丨
 𬮿	ygouu·马丿丶丶丶
 𬮿	ygouu·马文丶一丿丶
@@ -13811,7 +13811,7 @@
 𬮱	fteie·马爫ㄋㄋ丶一
 𬮱	fteie·马厂丿丨ㄋ一
 𬮱	fteie·马是丨ㄋ一一
-𬮱	fteie·马丨ㄋ丿丶
+𬮱	fteie·马丨丶一丿
 𬮱	fteie·马勹丿一一丨
 𬮱	fteie·马丿丶丶丶
 𬮱	fteie·马文丶一丿丶
@@ -14006,7 +14006,7 @@
 𬭼	vweo·马爫ㄋㄋ丶一
 𬭼	vweo·马厂丿丨ㄋ一
 𬭼	vweo·马是丨ㄋ一一
-𬭼	vweo·马丨ㄋ丿丶
+𬭼	vweo·马丨丶一丿
 𬭼	vweo·马勹丿一一丨
 𬭼	vweo·马丿丶丶丶
 𬭼	vweo·马文丶一丿丶
@@ -14201,7 +14201,7 @@
 𬭸	vqour·马爫ㄋㄋ丶一
 𬭸	vqour·马厂丿丨ㄋ一
 𬭸	vqour·马是丨ㄋ一一
-𬭸	vqour·马丨ㄋ丿丶
+𬭸	vqour·马丨丶一丿
 𬭸	vqour·马勹丿一一丨
 𬭸	vqour·马丿丶丶丶
 𬭸	vqour·马文丶一丿丶
@@ -14396,7 +14396,7 @@
 𬭶	vxiur·马爫ㄋㄋ丶一
 𬭶	vxiur·马厂丿丨ㄋ一
 𬭶	vxiur·马是丨ㄋ一一
-𬭶	vxiur·马丨ㄋ丿丶
+𬭶	vxiur·马丨丶一丿
 𬭶	vxiur·马勹丿一一丨
 𬭶	vxiur·马丿丶丶丶
 𬭶	vxiur·马文丶一丿丶
@@ -14591,7 +14591,7 @@
 𬭳	vaiuee·马爫ㄋㄋ丶一
 𬭳	vaiuee·马厂丿丨ㄋ一
 𬭳	vaiuee·马是丨ㄋ一一
-𬭳	vaiuee·马丨ㄋ丿丶
+𬭳	vaiuee·马丨丶一丿
 𬭳	vaiuee·马勹丿一一丨
 𬭳	vaiuee·马丿丶丶丶
 𬭳	vaiuee·马文丶一丿丶
@@ -14786,7 +14786,7 @@
 𬭯	vqoe·马爫ㄋㄋ丶一
 𬭯	vqoe·马厂丿丨ㄋ一
 𬭯	vqoe·马是丨ㄋ一一
-𬭯	vqoe·马丨ㄋ丿丶
+𬭯	vqoe·马丨丶一丿
 𬭯	vqoe·马勹丿一一丨
 𬭯	vqoe·马丿丶丶丶
 𬭯	vqoe·马文丶一丿丶
@@ -14981,7 +14981,7 @@
 𬭬	vxee·马爫ㄋㄋ丶一
 𬭬	vxee·马厂丿丨ㄋ一
 𬭬	vxee·马是丨ㄋ一一
-𬭬	vxee·马丨ㄋ丿丶
+𬭬	vxee·马丨丶一丿
 𬭬	vxee·马勹丿一一丨
 𬭬	vxee·马丿丶丶丶
 𬭬	vxee·马文丶一丿丶
@@ -15176,7 +15176,7 @@
 𬭩	vcur·马爫ㄋㄋ丶一
 𬭩	vcur·马厂丿丨ㄋ一
 𬭩	vcur·马是丨ㄋ一一
-𬭩	vcur·马丨ㄋ丿丶
+𬭩	vcur·马丨丶一丿
 𬭩	vcur·马勹丿一一丨
 𬭩	vcur·马丿丶丶丶
 𬭩	vcur·马文丶一丿丶
@@ -15371,7 +15371,7 @@
 𬭤	vjueo·马爫ㄋㄋ丶一
 𬭤	vjueo·马厂丿丨ㄋ一
 𬭤	vjueo·马是丨ㄋ一一
-𬭤	vjueo·马丨ㄋ丿丶
+𬭤	vjueo·马丨丶一丿
 𬭤	vjueo·马勹丿一一丨
 𬭤	vjueo·马丿丶丶丶
 𬭤	vjueo·马文丶一丿丶
@@ -15566,7 +15566,7 @@
 𬭛	vnuo·马爫ㄋㄋ丶一
 𬭛	vnuo·马厂丿丨ㄋ一
 𬭛	vnuo·马是丨ㄋ一一
-𬭛	vnuo·马丨ㄋ丿丶
+𬭛	vnuo·马丨丶一丿
 𬭛	vnuo·马勹丿一一丨
 𬭛	vnuo·马丿丶丶丶
 𬭛	vnuo·马文丶一丿丶
@@ -15761,7 +15761,7 @@
 𬭚	vguie·马爫ㄋㄋ丶一
 𬭚	vguie·马厂丿丨ㄋ一
 𬭚	vguie·马是丨ㄋ一一
-𬭚	vguie·马丨ㄋ丿丶
+𬭚	vguie·马丨丶一丿
 𬭚	vguie·马勹丿一一丨
 𬭚	vguie·马丿丶丶丶
 𬭚	vguie·马文丶一丿丶
@@ -15956,7 +15956,7 @@
 𬭎	vveou·马爫ㄋㄋ丶一
 𬭎	vveou·马厂丿丨ㄋ一
 𬭎	vveou·马是丨ㄋ一一
-𬭎	vveou·马丨ㄋ丿丶
+𬭎	vveou·马丨丶一丿
 𬭎	vveou·马勹丿一一丨
 𬭎	vveou·马丿丶丶丶
 𬭎	vveou·马文丶一丿丶
@@ -16151,7 +16151,7 @@
 𬭊	vtei·马爫ㄋㄋ丶一
 𬭊	vtei·马厂丿丨ㄋ一
 𬭊	vtei·马是丨ㄋ一一
-𬭊	vtei·马丨ㄋ丿丶
+𬭊	vtei·马丨丶一丿
 𬭊	vtei·马勹丿一一丨
 𬭊	vtei·马丿丶丶丶
 𬭊	vtei·马文丶一丿丶
@@ -16346,7 +16346,7 @@
 𬭁	vvuu·马爫ㄋㄋ丶一
 𬭁	vvuu·马厂丿丨ㄋ一
 𬭁	vvuu·马是丨ㄋ一一
-𬭁	vvuu·马丨ㄋ丿丶
+𬭁	vvuu·马丨丶一丿
 𬭁	vvuu·马勹丿一一丨
 𬭁	vvuu·马丿丶丶丶
 𬭁	vvuu·马文丶一丿丶
@@ -16541,7 +16541,7 @@
 𬬿	vsiu·马爫ㄋㄋ丶一
 𬬿	vsiu·马厂丿丨ㄋ一
 𬬿	vsiu·马是丨ㄋ一一
-𬬿	vsiu·马丨ㄋ丿丶
+𬬿	vsiu·马丨丶一丿
 𬬿	vsiu·马勹丿一一丨
 𬬿	vsiu·马丿丶丶丶
 𬬿	vsiu·马文丶一丿丶
@@ -16736,7 +16736,7 @@
 𬬻	vlue·马爫ㄋㄋ丶一
 𬬻	vlue·马厂丿丨ㄋ一
 𬬻	vlue·马是丨ㄋ一一
-𬬻	vlue·马丨ㄋ丿丶
+𬬻	vlue·马丨丶一丿
 𬬻	vlue·马勹丿一一丨
 𬬻	vlue·马丿丶丶丶
 𬬻	vlue·马文丶一丿丶
@@ -16931,7 +16931,7 @@
 𬬹	vwii·马爫ㄋㄋ丶一
 𬬹	vwii·马厂丿丨ㄋ一
 𬬹	vwii·马是丨ㄋ一一
-𬬹	vwii·马丨ㄋ丿丶
+𬬹	vwii·马丨丶一丿
 𬬹	vwii·马勹丿一一丨
 𬬹	vwii·马丿丶丶丶
 𬬹	vwii·马文丶一丿丶
@@ -17126,7 +17126,7 @@
 𬬸	vtr·马爫ㄋㄋ丶一
 𬬸	vtr·马厂丿丨ㄋ一
 𬬸	vtr·马是丨ㄋ一一
-𬬸	vtr·马丨ㄋ丿丶
+𬬸	vtr·马丨丶一丿
 𬬸	vtr·马勹丿一一丨
 𬬸	vtr·马丿丶丶丶
 𬬸	vtr·马文丶一丿丶
@@ -17321,7 +17321,7 @@
 𬬱	vqooe·马爫ㄋㄋ丶一
 𬬱	vqooe·马厂丿丨ㄋ一
 𬬱	vqooe·马是丨ㄋ一一
-𬬱	vqooe·马丨ㄋ丿丶
+𬬱	vqooe·马丨丶一丿
 𬬱	vqooe·马勹丿一一丨
 𬬱	vqooe·马丿丶丶丶
 𬬱	vqooe·马文丶一丿丶
@@ -17516,7 +17516,7 @@
 𬬮	vboe·马爫ㄋㄋ丶一
 𬬮	vboe·马厂丿丨ㄋ一
 𬬮	vboe·马是丨ㄋ一一
-𬬮	vboe·马丨ㄋ丿丶
+𬬮	vboe·马丨丶一丿
 𬬮	vboe·马勹丿一一丨
 𬬮	vboe·马丿丶丶丶
 𬬮	vboe·马文丶一丿丶
@@ -17711,7 +17711,7 @@
 𬬭	vdou·马爫ㄋㄋ丶一
 𬬭	vdou·马厂丿丨ㄋ一
 𬬭	vdou·马是丨ㄋ一一
-𬬭	vdou·马丨ㄋ丿丶
+𬬭	vdou·马丨丶一丿
 𬬭	vdou·马勹丿一一丨
 𬬭	vdou·马丿丶丶丶
 𬬭	vdou·马文丶一丿丶
@@ -17906,7 +17906,7 @@
 𬬩	vkeur·马爫ㄋㄋ丶一
 𬬩	vkeur·马厂丿丨ㄋ一
 𬬩	vkeur·马是丨ㄋ一一
-𬬩	vkeur·马丨ㄋ丿丶
+𬬩	vkeur·马丨丶一丿
 𬬩	vkeur·马勹丿一一丨
 𬬩	vkeur·马丿丶丶丶
 𬬩	vkeur·马文丶一丿丶
@@ -18101,7 +18101,7 @@
 𬪩	tlruo·马爫ㄋㄋ丶一
 𬪩	tlruo·马厂丿丨ㄋ一
 𬪩	tlruo·马是丨ㄋ一一
-𬪩	tlruo·马丨ㄋ丿丶
+𬪩	tlruo·马丨丶一丿
 𬪩	tlruo·马勹丿一一丨
 𬪩	tlruo·马丿丶丶丶
 𬪩	tlruo·马文丶一丿丶
@@ -18296,7 +18296,7 @@
 𬩽	cjui·马爫ㄋㄋ丶一
 𬩽	cjui·马厂丿丨ㄋ一
 𬩽	cjui·马是丨ㄋ一一
-𬩽	cjui·马丨ㄋ丿丶
+𬩽	cjui·马丨丶一丿
 𬩽	cjui·马勹丿一一丨
 𬩽	cjui·马丿丶丶丶
 𬩽	cjui·马文丶一丿丶
@@ -18491,7 +18491,7 @@
 𬨎	ydro·马爫ㄋㄋ丶一
 𬨎	ydro·马厂丿丨ㄋ一
 𬨎	ydro·马是丨ㄋ一一
-𬨎	ydro·马丨ㄋ丿丶
+𬨎	ydro·马丨丶一丿
 𬨎	ydro·马勹丿一一丨
 𬨎	ydro·马丿丶丶丶
 𬨎	ydro·马文丶一丿丶
@@ -18686,7 +18686,7 @@
 𬨂	ymou·马爫ㄋㄋ丶一
 𬨂	ymou·马厂丿丨ㄋ一
 𬨂	ymou·马是丨ㄋ一一
-𬨂	ymou·马丨ㄋ丿丶
+𬨂	ymou·马丨丶一丿
 𬨂	ymou·马勹丿一一丨
 𬨂	ymou·马丿丶丶丶
 𬨂	ymou·马文丶一丿丶
@@ -18881,7 +18881,7 @@
 𬤝	sjiuee·马爫ㄋㄋ丶一
 𬤝	sjiuee·马厂丿丨ㄋ一
 𬤝	sjiuee·马是丨ㄋ一一
-𬤝	sjiuee·马丨ㄋ丿丶
+𬤝	sjiuee·马丨丶一丿
 𬤝	sjiuee·马勹丿一一丨
 𬤝	sjiuee·马丿丶丶丶
 𬤝	sjiuee·马文丶一丿丶
@@ -19076,7 +19076,7 @@
 𬤊	ssiuee·马爫ㄋㄋ丶一
 𬤊	ssiuee·马厂丿丨ㄋ一
 𬤊	ssiuee·马是丨ㄋ一一
-𬤊	ssiuee·马丨ㄋ丿丶
+𬤊	ssiuee·马丨丶一丿
 𬤊	ssiuee·马勹丿一一丨
 𬤊	ssiuee·马丿丶丶丶
 𬤊	ssiuee·马文丶一丿丶
@@ -19271,7 +19271,7 @@
 𬤇	ste·马爫ㄋㄋ丶一
 𬤇	ste·马厂丿丨ㄋ一
 𬤇	ste·马是丨ㄋ一一
-𬤇	ste·马丨ㄋ丿丶
+𬤇	ste·马丨丶一丿
 𬤇	ste·马勹丿一一丨
 𬤇	ste·马丿丶丶丶
 𬤇	ste·马文丶一丿丶
@@ -19466,7 +19466,7 @@
 𬣳	shuee·马爫ㄋㄋ丶一
 𬣳	shuee·马厂丿丨ㄋ一
 𬣳	shuee·马是丨ㄋ一一
-𬣳	shuee·马丨ㄋ丿丶
+𬣳	shuee·马丨丶一丿
 𬣳	shuee·马勹丿一一丨
 𬣳	shuee·马丿丶丶丶
 𬣳	shuee·马文丶一丿丶
@@ -19661,7 +19661,7 @@
 𬣡	skeeu·马爫ㄋㄋ丶一
 𬣡	skeeu·马厂丿丨ㄋ一
 𬣡	skeeu·马是丨ㄋ一一
-𬣡	skeeu·马丨ㄋ丿丶
+𬣡	skeeu·马丨丶一丿
 𬣡	skeeu·马勹丿一一丨
 𬣡	skeeu·马丿丶丶丶
 𬣡	skeeu·马文丶一丿丶
@@ -19856,7 +19856,7 @@
 𬣞	sveee·马爫ㄋㄋ丶一
 𬣞	sveee·马厂丿丨ㄋ一
 𬣞	sveee·马是丨ㄋ一一
-𬣞	sveee·马丨ㄋ丿丶
+𬣞	sveee·马丨丶一丿
 𬣞	sveee·马勹丿一一丨
 𬣞	sveee·马丿丶丶丶
 𬣞	sveee·马文丶一丿丶
@@ -20051,7 +20051,7 @@
 𬣙	saee·马爫ㄋㄋ丶一
 𬣙	saee·马厂丿丨ㄋ一
 𬣙	saee·马是丨ㄋ一一
-𬣙	saee·马丨ㄋ丿丶
+𬣙	saee·马丨丶一丿
 𬣙	saee·马勹丿一一丨
 𬣙	saee·马丿丶丶丶
 𬣙	saee·马文丶一丿丶
@@ -20246,7 +20246,7 @@
 𬟽	byio·马爫ㄋㄋ丶一
 𬟽	byio·马厂丿丨ㄋ一
 𬟽	byio·马是丨ㄋ一一
-𬟽	byio·马丨ㄋ丿丶
+𬟽	byio·马丨丶一丿
 𬟽	byio·马勹丿一一丨
 𬟽	byio·马丿丶丶丶
 𬟽	byio·马文丶一丿丶
@@ -20441,7 +20441,7 @@
 𬟁	flour·马爫ㄋㄋ丶一
 𬟁	flour·马厂丿丨ㄋ一
 𬟁	flour·马是丨ㄋ一一
-𬟁	flour·马丨ㄋ丿丶
+𬟁	flour·马丨丶一丿
 𬟁	flour·马勹丿一一丨
 𬟁	flour·马丿丶丶丶
 𬟁	flour·马文丶一丿丶
@@ -20636,7 +20636,7 @@
 𬞟	fhio·马爫ㄋㄋ丶一
 𬞟	fhio·马厂丿丨ㄋ一
 𬞟	fhio·马是丨ㄋ一一
-𬞟	fhio·马丨ㄋ丿丶
+𬞟	fhio·马丨丶一丿
 𬞟	fhio·马勹丿一一丨
 𬞟	fhio·马丿丶丶丶
 𬞟	fhio·马文丶一丿丶
@@ -20831,7 +20831,7 @@
 𬜯	fforor·马爫ㄋㄋ丶一
 𬜯	fforor·马厂丿丨ㄋ一
 𬜯	fforor·马是丨ㄋ一一
-𬜯	fforor·马丨ㄋ丿丶
+𬜯	fforor·马丨丶一丿
 𬜯	fforor·马勹丿一一丨
 𬜯	fforor·马丿丶丶丶
 𬜯	fforor·马文丶一丿丶
@@ -21026,7 +21026,7 @@
 𬜬	ffiue·马爫ㄋㄋ丶一
 𬜬	ffiue·马厂丿丨ㄋ一
 𬜬	ffiue·马是丨ㄋ一一
-𬜬	ffiue·马丨ㄋ丿丶
+𬜬	ffiue·马丨丶一丿
 𬜬	ffiue·马勹丿一一丨
 𬜬	ffiue·马丿丶丶丶
 𬜬	ffiue·马文丶一丿丶
@@ -21221,7 +21221,7 @@
 𬙋	xbiue·马爫ㄋㄋ丶一
 𬙋	xbiue·马厂丿丨ㄋ一
 𬙋	xbiue·马是丨ㄋ一一
-𬙋	xbiue·马丨ㄋ丿丶
+𬙋	xbiue·马丨丶一丿
 𬙋	xbiue·马勹丿一一丨
 𬙋	xbiue·马丿丶丶丶
 𬙋	xbiue·马文丶一丿丶
@@ -21416,7 +21416,7 @@
 𬙊	xxe·马爫ㄋㄋ丶一
 𬙊	xxe·马厂丿丨ㄋ一
 𬙊	xxe·马是丨ㄋ一一
-𬙊	xxe·马丨ㄋ丿丶
+𬙊	xxe·马丨丶一丿
 𬙊	xxe·马勹丿一一丨
 𬙊	xxe·马丿丶丶丶
 𬙊	xxe·马文丶一丿丶
@@ -21611,7 +21611,7 @@
 𬙂	xveiu·马爫ㄋㄋ丶一
 𬙂	xveiu·马厂丿丨ㄋ一
 𬙂	xveiu·马是丨ㄋ一一
-𬙂	xveiu·马丨ㄋ丿丶
+𬙂	xveiu·马丨丶一丿
 𬙂	xveiu·马勹丿一一丨
 𬙂	xveiu·马丿丶丶丶
 𬙂	xveiu·马文丶一丿丶
@@ -21806,7 +21806,7 @@
 𬘯	xgui·马爫ㄋㄋ丶一
 𬘯	xgui·马厂丿丨ㄋ一
 𬘯	xgui·马是丨ㄋ一一
-𬘯	xgui·马丨ㄋ丿丶
+𬘯	xgui·马丨丶一丿
 𬘯	xgui·马勹丿一一丨
 𬘯	xgui·马丿丶丶丶
 𬘯	xgui·马文丶一丿丶
@@ -22001,7 +22001,7 @@
 𬘭	xmei·马爫ㄋㄋ丶一
 𬘭	xmei·马厂丿丨ㄋ一
 𬘭	xmei·马是丨ㄋ一一
-𬘭	xmei·马丨ㄋ丿丶
+𬘭	xmei·马丨丶一丿
 𬘭	xmei·马勹丿一一丨
 𬘭	xmei·马丿丶丶丶
 𬘭	xmei·马文丶一丿丶
@@ -22196,7 +22196,7 @@
 𬘬	xhee·马爫ㄋㄋ丶一
 𬘬	xhee·马厂丿丨ㄋ一
 𬘬	xhee·马是丨ㄋ一一
-𬘬	xhee·马丨ㄋ丿丶
+𬘬	xhee·马丨丶一丿
 𬘬	xhee·马勹丿一一丨
 𬘬	xhee·马丿丶丶丶
 𬘬	xhee·马文丶一丿丶
@@ -22391,7 +22391,7 @@
 𬘫	xveeo·马爫ㄋㄋ丶一
 𬘫	xveeo·马厂丿丨ㄋ一
 𬘫	xveeo·马是丨ㄋ一一
-𬘫	xveeo·马丨ㄋ丿丶
+𬘫	xveeo·马丨丶一丿
 𬘫	xveeo·马勹丿一一丨
 𬘫	xveeo·马丿丶丶丶
 𬘫	xveeo·马文丶一丿丶
@@ -22586,7 +22586,7 @@
 𬘩	xjie·马爫ㄋㄋ丶一
 𬘩	xjie·马厂丿丨ㄋ一
 𬘩	xjie·马是丨ㄋ一一
-𬘩	xjie·马丨ㄋ丿丶
+𬘩	xjie·马丨丶一丿
 𬘩	xjie·马勹丿一一丨
 𬘩	xjie·马丿丶丶丶
 𬘩	xjie·马文丶一丿丶
@@ -22781,7 +22781,7 @@
 𬘡	xqiue·马爫ㄋㄋ丶一
 𬘡	xqiue·马厂丿丨ㄋ一
 𬘡	xqiue·马是丨ㄋ一一
-𬘡	xqiue·马丨ㄋ丿丶
+𬘡	xqiue·马丨丶一丿
 𬘡	xqiue·马勹丿一一丨
 𬘡	xqiue·马丿丶丶丶
 𬘡	xqiue·马文丶一丿丶
@@ -22976,7 +22976,7 @@
 𬘘	xqou·马爫ㄋㄋ丶一
 𬘘	xqou·马厂丿丨ㄋ一
 𬘘	xqou·马是丨ㄋ一一
-𬘘	xqou·马丨ㄋ丿丶
+𬘘	xqou·马丨丶一丿
 𬘘	xqou·马勹丿一一丨
 𬘘	xqou·马丿丶丶丶
 𬘘	xqou·马文丶一丿丶
@@ -23171,7 +23171,7 @@
 𬘓	xwo·马爫ㄋㄋ丶一
 𬘓	xwo·马厂丿丨ㄋ一
 𬘓	xwo·马是丨ㄋ一一
-𬘓	xwo·马丨ㄋ丿丶
+𬘓	xwo·马丨丶一丿
 𬘓	xwo·马勹丿一一丨
 𬘓	xwo·马丿丶丶丶
 𬘓	xwo·马文丶一丿丶
@@ -23366,7 +23366,7 @@
 𬕂	lliuor·马爫ㄋㄋ丶一
 𬕂	lliuor·马厂丿丨ㄋ一
 𬕂	lliuor·马是丨ㄋ一一
-𬕂	lliuor·马丨ㄋ丿丶
+𬕂	lliuor·马丨丶一丿
 𬕂	lliuor·马勹丿一一丨
 𬕂	lliuor·马丿丶丶丶
 𬕂	lliuor·马文丶一丿丶
@@ -23561,7 +23561,7 @@
 𬒗	dliuo·马爫ㄋㄋ丶一
 𬒗	dliuo·马厂丿丨ㄋ一
 𬒗	dliuo·马是丨ㄋ一一
-𬒗	dliuo·马丨ㄋ丿丶
+𬒗	dliuo·马丨丶一丿
 𬒗	dliuo·马勹丿一一丨
 𬒗	dliuo·马丿丶丶丶
 𬒗	dliuo·马文丶一丿丶
@@ -23756,7 +23756,7 @@
 𬒔	dhiuee·马爫ㄋㄋ丶一
 𬒔	dhiuee·马厂丿丨ㄋ一
 𬒔	dhiuee·马是丨ㄋ一一
-𬒔	dhiuee·马丨ㄋ丿丶
+𬒔	dhiuee·马丨丶一丿
 𬒔	dhiuee·马勹丿一一丨
 𬒔	dhiuee·马丿丶丶丶
 𬒔	dhiuee·马文丶一丿丶
@@ -23951,7 +23951,7 @@
 𬒈	ndeoi·马爫ㄋㄋ丶一
 𬒈	ndeoi·马厂丿丨ㄋ一
 𬒈	ndeoi·马是丨ㄋ一一
-𬒈	ndeoi·马丨ㄋ丿丶
+𬒈	ndeoi·马丨丶一丿
 𬒈	ndeoi·马勹丿一一丨
 𬒈	ndeoi·马丿丶丶丶
 𬒈	ndeoi·马文丶一丿丶
@@ -24146,7 +24146,7 @@
 𬍤	sce·马爫ㄋㄋ丶一
 𬍤	sce·马厂丿丨ㄋ一
 𬍤	sce·马是丨ㄋ一一
-𬍤	sce·马丨ㄋ丿丶
+𬍤	sce·马丨丶一丿
 𬍤	sce·马勹丿一一丨
 𬍤	sce·马丿丶丶丶
 𬍤	sce·马文丶一丿丶
@@ -24341,7 +24341,7 @@
 𬍡	ntooee·马爫ㄋㄋ丶一
 𬍡	ntooee·马厂丿丨ㄋ一
 𬍡	ntooee·马是丨ㄋ一一
-𬍡	ntooee·马丨ㄋ丿丶
+𬍡	ntooee·马丨丶一丿
 𬍡	ntooee·马勹丿一一丨
 𬍡	ntooee·马丿丶丶丶
 𬍡	ntooee·马文丶一丿丶
@@ -24536,7 +24536,7 @@
 𬍛	spio·马爫ㄋㄋ丶一
 𬍛	spio·马厂丿丨ㄋ一
 𬍛	spio·马是丨ㄋ一一
-𬍛	spio·马丨ㄋ丿丶
+𬍛	spio·马丨丶一丿
 𬍛	spio·马勹丿一一丨
 𬍛	spio·马丿丶丶丶
 𬍛	spio·马文丶一丿丶
@@ -24731,7 +24731,7 @@
 𬌗	acore·马爫ㄋㄋ丶一
 𬌗	acore·马厂丿丨ㄋ一
 𬌗	acore·马是丨ㄋ一一
-𬌗	acore·马丨ㄋ丿丶
+𬌗	acore·马丨丶一丿
 𬌗	acore·马勹丿一一丨
 𬌗	acore·马丿丶丶丶
 𬌗	acore·马文丶一丿丶
@@ -24926,7 +24926,7 @@
 𬊤	phro·马爫ㄋㄋ丶一
 𬊤	phro·马厂丿丨ㄋ一
 𬊤	phro·马是丨ㄋ一一
-𬊤	phro·马丨ㄋ丿丶
+𬊤	phro·马丨丶一丿
 𬊤	phro·马勹丿一一丨
 𬊤	phro·马丿丶丶丶
 𬊤	phro·马文丶一丿丶
@@ -25121,7 +25121,7 @@
 𬊈	pce·马爫ㄋㄋ丶一
 𬊈	pce·马厂丿丨ㄋ一
 𬊈	pce·马是丨ㄋ一一
-𬊈	pce·马丨ㄋ丿丶
+𬊈	pce·马丨丶一丿
 𬊈	pce·马勹丿一一丨
 𬊈	pce·马丿丶丶丶
 𬊈	pce·马文丶一丿丶
@@ -25316,7 +25316,7 @@
 𬉼	pmeo·马爫ㄋㄋ丶一
 𬉼	pmeo·马厂丿丨ㄋ一
 𬉼	pmeo·马是丨ㄋ一一
-𬉼	pmeo·马丨ㄋ丿丶
+𬉼	pmeo·马丨丶一丿
 𬉼	pmeo·马勹丿一一丨
 𬉼	pmeo·马丿丶丶丶
 𬉼	pmeo·马文丶一丿丶
@@ -25511,7 +25511,7 @@
 𬇹	nkeei·马爫ㄋㄋ丶一
 𬇹	nkeei·马厂丿丨ㄋ一
 𬇹	nkeei·马是丨ㄋ一一
-𬇹	nkeei·马丨ㄋ丿丶
+𬇹	nkeei·马丨丶一丿
 𬇹	nkeei·马勹丿一一丨
 𬇹	nkeei·马丿丶丶丶
 𬇹	nkeei·马文丶一丿丶
@@ -25706,7 +25706,7 @@
 𬇙	ndiuo·马爫ㄋㄋ丶一
 𬇙	ndiuo·马厂丿丨ㄋ一
 𬇙	ndiuo·马是丨ㄋ一一
-𬇙	ndiuo·马丨ㄋ丿丶
+𬇙	ndiuo·马丨丶一丿
 𬇙	ndiuo·马勹丿一一丨
 𬇙	ndiuo·马丿丶丶丶
 𬇙	ndiuo·马文丶一丿丶
@@ -25901,7 +25901,7 @@
 𬇕	nweu·马爫ㄋㄋ丶一
 𬇕	nweu·马厂丿丨ㄋ一
 𬇕	nweu·马是丨ㄋ一一
-𬇕	nweu·马丨ㄋ丿丶
+𬇕	nweu·马丨丶一丿
 𬇕	nweu·马勹丿一一丨
 𬇕	nweu·马丿丶丶丶
 𬇕	nweu·马文丶一丿丶
@@ -26096,7 +26096,7 @@
 𬃊	taeiiu·马爫ㄋㄋ丶一
 𬃊	taeiiu·马厂丿丨ㄋ一
 𬃊	taeiiu·马是丨ㄋ一一
-𬃊	taeiiu·马丨ㄋ丿丶
+𬃊	taeiiu·马丨丶一丿
 𬃊	taeiiu·马勹丿一一丨
 𬃊	taeiiu·马丿丶丶丶
 𬃊	taeiiu·马文丶一丿丶
@@ -26291,7 +26291,7 @@
 𬂩	twor·马爫ㄋㄋ丶一
 𬂩	twor·马厂丿丨ㄋ一
 𬂩	twor·马是丨ㄋ一一
-𬂩	twor·马丨ㄋ丿丶
+𬂩	twor·马丨丶一丿
 𬂩	twor·马勹丿一一丨
 𬂩	twor·马丿丶丶丶
 𬂩	twor·马文丶一丿丶
@@ -26486,7 +26486,7 @@
 𬀪	wfiuo·马爫ㄋㄋ丶一
 𬀪	wfiuo·马厂丿丨ㄋ一
 𬀪	wfiuo·马是丨ㄋ一一
-𬀪	wfiuo·马丨ㄋ丿丶
+𬀪	wfiuo·马丨丶一丿
 𬀪	wfiuo·马勹丿一一丨
 𬀪	wfiuo·马丿丶丶丶
 𬀪	wfiuo·马文丶一丿丶
@@ -26681,7 +26681,7 @@
 𬀩	wjeeu·马爫ㄋㄋ丶一
 𬀩	wjeeu·马厂丿丨ㄋ一
 𬀩	wjeeu·马是丨ㄋ一一
-𬀩	wjeeu·马丨ㄋ丿丶
+𬀩	wjeeu·马丨丶一丿
 𬀩	wjeeu·马勹丿一一丨
 𬀩	wjeeu·马丿丶丶丶
 𬀩	wjeeu·马文丶一丿丶
@@ -26876,7 +26876,7 @@
 𫸩	xmeo·马爫ㄋㄋ丶一
 𫸩	xmeo·马厂丿丨ㄋ一
 𫸩	xmeo·马是丨ㄋ一一
-𫸩	xmeo·马丨ㄋ丿丶
+𫸩	xmeo·马丨丶一丿
 𫸩	xmeo·马勹丿一一丨
 𫸩	xmeo·马丿丶丶丶
 𫸩	xmeo·马文丶一丿丶
@@ -27071,7 +27071,7 @@
 𫷷	avou·马爫ㄋㄋ丶一
 𫷷	avou·马厂丿丨ㄋ一
 𫷷	avou·马是丨ㄋ一一
-𫷷	avou·马丨ㄋ丿丶
+𫷷	avou·马丨丶一丿
 𫷷	avou·马勹丿一一丨
 𫷷	avou·马丿丶丶丶
 𫷷	avou·马文丶一丿丶
@@ -27266,7 +27266,7 @@
 𫶇	yfr·马爫ㄋㄋ丶一
 𫶇	yfr·马厂丿丨ㄋ一
 𫶇	yfr·马是丨ㄋ一一
-𫶇	yfr·马丨ㄋ丿丶
+𫶇	yfr·马丨丶一丿
 𫶇	yfr·马勹丿一一丨
 𫶇	yfr·马丿丶丶丶
 𫶇	yfr·马文丶一丿丶
@@ -27461,7 +27461,7 @@
 𫵷	yaeuo·马爫ㄋㄋ丶一
 𫵷	yaeuo·马厂丿丨ㄋ一
 𫵷	yaeuo·马是丨ㄋ一一
-𫵷	yaeuo·马丨ㄋ丿丶
+𫵷	yaeuo·马丨丶一丿
 𫵷	yaeuo·马勹丿一一丨
 𫵷	yaeuo·马丿丶丶丶
 𫵷	yaeuo·马文丶一丿丶
@@ -27656,7 +27656,7 @@
 𫰛	mpur·马爫ㄋㄋ丶一
 𫰛	mpur·马厂丿丨ㄋ一
 𫰛	mpur·马是丨ㄋ一一
-𫰛	mpur·马丨ㄋ丿丶
+𫰛	mpur·马丨丶一丿
 𫰛	mpur·马勹丿一一丨
 𫰛	mpur·马丿丶丶丶
 𫰛	mpur·马文丶一丿丶
@@ -27851,7 +27851,7 @@
 𫮃	lhroiu·马爫ㄋㄋ丶一
 𫮃	lhroiu·马厂丿丨ㄋ一
 𫮃	lhroiu·马是丨ㄋ一一
-𫮃	lhroiu·马丨ㄋ丿丶
+𫮃	lhroiu·马丨丶一丿
 𫮃	lhroiu·马勹丿一一丨
 𫮃	lhroiu·马丿丶丶丶
 𫮃	lhroiu·马文丶一丿丶
@@ -28046,7 +28046,7 @@
 𫭼	lwuooo·马爫ㄋㄋ丶一
 𫭼	lwuooo·马厂丿丨ㄋ一
 𫭼	lwuooo·马是丨ㄋ一一
-𫭼	lwuooo·马丨ㄋ丿丶
+𫭼	lwuooo·马丨丶一丿
 𫭼	lwuooo·马勹丿一一丨
 𫭼	lwuooo·马丿丶丶丶
 𫭼	lwuooo·马文丶一丿丶
@@ -28241,7 +28241,7 @@
 𫭢	ldouu·马爫ㄋㄋ丶一
 𫭢	ldouu·马厂丿丨ㄋ一
 𫭢	ldouu·马是丨ㄋ一一
-𫭢	ldouu·马丨ㄋ丿丶
+𫭢	ldouu·马丨丶一丿
 𫭢	ldouu·马勹丿一一丨
 𫭢	ldouu·马丿丶丶丶
 𫭢	ldouu·马文丶一丿丶
@@ -28436,7 +28436,7 @@
 𫭟	lmeo·马爫ㄋㄋ丶一
 𫭟	lmeo·马厂丿丨ㄋ一
 𫭟	lmeo·马是丨ㄋ一一
-𫭟	lmeo·马丨ㄋ丿丶
+𫭟	lmeo·马丨丶一丿
 𫭟	lmeo·马勹丿一一丨
 𫭟	lmeo·马丿丶丶丶
 𫭟	lmeo·马文丶一丿丶
@@ -28631,7 +28631,7 @@
 𫫇	ksru·马爫ㄋㄋ丶一
 𫫇	ksru·马厂丿丨ㄋ一
 𫫇	ksru·马是丨ㄋ一一
-𫫇	ksru·马丨ㄋ丿丶
+𫫇	ksru·马丨丶一丿
 𫫇	ksru·马勹丿一一丨
 𫫇	ksru·马丿丶丶丶
 𫫇	ksru·马文丶一丿丶
@@ -28826,7 +28826,7 @@
 𫢸	jhro·马爫ㄋㄋ丶一
 𫢸	jhro·马厂丿丨ㄋ一
 𫢸	jhro·马是丨ㄋ一一
-𫢸	jhro·马丨ㄋ丿丶
+𫢸	jhro·马丨丶一丿
 𫢸	jhro·马勹丿一一丨
 𫢸	jhro·马丿丶丶丶
 𫢸	jhro·马文丶一丿丶
@@ -29021,7 +29021,7 @@
 𫠜	htouu·马爫ㄋㄋ丶一
 𫠜	htouu·马厂丿丨ㄋ一
 𫠜	htouu·马是丨ㄋ一一
-𫠜	htouu·马丨ㄋ丿丶
+𫠜	htouu·马丨丶一丿
 𫠜	htouu·马勹丿一一丨
 𫠜	htouu·马丿丶丶丶
 𫠜	htouu·马文丶一丿丶
@@ -29216,7 +29216,7 @@
 𫠊	abu·马爫ㄋㄋ丶一
 𫠊	abu·马厂丿丨ㄋ一
 𫠊	abu·马是丨ㄋ一一
-𫠊	abu·马丨ㄋ丿丶
+𫠊	abu·马丨丶一丿
 𫠊	abu·马勹丿一一丨
 𫠊	abu·马丿丶丶丶
 𫠊	abu·马文丶一丿丶
@@ -29411,7 +29411,7 @@
 𫠆	pfeo·马爫ㄋㄋ丶一
 𫠆	pfeo·马厂丿丨ㄋ一
 𫠆	pfeo·马是丨ㄋ一一
-𫠆	pfeo·马丨ㄋ丿丶
+𫠆	pfeo·马丨丶一丿
 𫠆	pfeo·马勹丿一一丨
 𫠆	pfeo·马丿丶丶丶
 𫠆	pfeo·马文丶一丿丶
@@ -29606,7 +29606,7 @@
 𫟼	vkrur·马爫ㄋㄋ丶一
 𫟼	vkrur·马厂丿丨ㄋ一
 𫟼	vkrur·马是丨ㄋ一一
-𫟼	vkrur·马丨ㄋ丿丶
+𫟼	vkrur·马丨丶一丿
 𫟼	vkrur·马勹丿一一丨
 𫟼	vkrur·马丿丶丶丶
 𫟼	vkrur·马文丶一丿丶
@@ -29801,7 +29801,7 @@
 𫟹	vpeii·马爫ㄋㄋ丶一
 𫟹	vpeii·马厂丿丨ㄋ一
 𫟹	vpeii·马是丨ㄋ一一
-𫟹	vpeii·马丨ㄋ丿丶
+𫟹	vpeii·马丨丶一丿
 𫟹	vpeii·马勹丿一一丨
 𫟹	vpeii·马丿丶丶丶
 𫟹	vpeii·马文丶一丿丶
@@ -29996,7 +29996,7 @@
 𫟦	yweo·马爫ㄋㄋ丶一
 𫟦	yweo·马厂丿丨ㄋ一
 𫟦	yweo·马是丨ㄋ一一
-𫟦	yweo·马丨ㄋ丿丶
+𫟦	yweo·马丨丶一丿
 𫟦	yweo·马勹丿一一丨
 𫟦	yweo·马丿丶丶丶
 𫟦	yweo·马文丶一丿丶
@@ -30191,7 +30191,7 @@
 𫟅	xlreiu·马爫ㄋㄋ丶一
 𫟅	xlreiu·马厂丿丨ㄋ一
 𫟅	xlreiu·马是丨ㄋ一一
-𫟅	xlreiu·马丨ㄋ丿丶
+𫟅	xlreiu·马丨丶一丿
 𫟅	xlreiu·马勹丿一一丨
 𫟅	xlreiu·马丿丶丶丶
 𫟅	xlreiu·马文丶一丿丶
@@ -30386,7 +30386,7 @@
 𫞩	sfeiuo·马爫ㄋㄋ丶一
 𫞩	sfeiuo·马厂丿丨ㄋ一
 𫞩	sfeiuo·马是丨ㄋ一一
-𫞩	sfeiuo·马丨ㄋ丿丶
+𫞩	sfeiuo·马丨丶一丿
 𫞩	sfeiuo·马勹丿一一丨
 𫞩	sfeiuo·马丿丶丶丶
 𫞩	sfeiuo·马文丶一丿丶
@@ -30581,7 +30581,7 @@
 𫛭	psou·马爫ㄋㄋ丶一
 𫛭	psou·马厂丿丨ㄋ一
 𫛭	psou·马是丨ㄋ一一
-𫛭	psou·马丨ㄋ丿丶
+𫛭	psou·马丨丶一丿
 𫛭	psou·马勹丿一一丨
 𫛭	psou·马丿丶丶丶
 𫛭	psou·马文丶一丿丶
@@ -30776,7 +30776,7 @@
 𫚭	dwiueu·马爫ㄋㄋ丶一
 𫚭	dwiueu·马厂丿丨ㄋ一
 𫚭	dwiueu·马是丨ㄋ一一
-𫚭	dwiueu·马丨ㄋ丿丶
+𫚭	dwiueu·马丨丶一丿
 𫚭	dwiueu·马勹丿一一丨
 𫚭	dwiueu·马丿丶丶丶
 𫚭	dwiueu·马文丶一丿丶
@@ -30971,7 +30971,7 @@
 𫚖	tdou·马爫ㄋㄋ丶一
 𫚖	tdou·马厂丿丨ㄋ一
 𫚖	tdou·马是丨ㄋ一一
-𫚖	tdou·马丨ㄋ丿丶
+𫚖	tdou·马丨丶一丿
 𫚖	tdou·马勹丿一一丨
 𫚖	tdou·马丿丶丶丶
 𫚖	tdou·马文丶一丿丶
@@ -31166,7 +31166,7 @@
 𫚕	dneiu·马爫ㄋㄋ丶一
 𫚕	dneiu·马厂丿丨ㄋ一
 𫚕	dneiu·马是丨ㄋ一一
-𫚕	dneiu·马丨ㄋ丿丶
+𫚕	dneiu·马丨丶一丿
 𫚕	dneiu·马勹丿一一丨
 𫚕	dneiu·马丿丶丶丶
 𫚕	dneiu·马文丶一丿丶
@@ -31361,7 +31361,7 @@
 𫘬	ayuu·马爫ㄋㄋ丶一
 𫘬	ayuu·马厂丿丨ㄋ一
 𫘬	ayuu·马是丨ㄋ一一
-𫘬	ayuu·马丨ㄋ丿丶
+𫘬	ayuu·马丨丶一丿
 𫘬	ayuu·马勹丿一一丨
 𫘬	ayuu·马丿丶丶丶
 𫘬	ayuu·马文丶一丿丶
@@ -31556,7 +31556,7 @@
 𫘪	aao·马爫ㄋㄋ丶一
 𫘪	aao·马厂丿丨ㄋ一
 𫘪	aao·马是丨ㄋ一一
-𫘪	aao·马丨ㄋ丿丶
+𫘪	aao·马丨丶一丿
 𫘪	aao·马勹丿一一丨
 𫘪	aao·马丿丶丶丶
 𫘪	aao·马文丶一丿丶
@@ -31751,7 +31751,7 @@
 𫘨	asiuee·马爫ㄋㄋ丶一
 𫘨	asiuee·马厂丿丨ㄋ一
 𫘨	asiuee·马是丨ㄋ一一
-𫘨	asiuee·马丨ㄋ丿丶
+𫘨	asiuee·马丨丶一丿
 𫘨	asiuee·马勹丿一一丨
 𫘨	asiuee·马丿丶丶丶
 𫘨	asiuee·马文丶一丿丶
@@ -31946,7 +31946,7 @@
 𫘧	aciuo·马爫ㄋㄋ丶一
 𫘧	aciuo·马厂丿丨ㄋ一
 𫘧	aciuo·马是丨ㄋ一一
-𫘧	aciuo·马丨ㄋ丿丶
+𫘧	aciuo·马丨丶一丿
 𫘧	aciuo·马勹丿一一丨
 𫘧	aciuo·马丿丶丶丶
 𫘧	aciuo·马文丶一丿丶
@@ -32141,7 +32141,7 @@
 𫘦	akoe·马爫ㄋㄋ丶一
 𫘦	akoe·马厂丿丨ㄋ一
 𫘦	akoe·马是丨ㄋ一一
-𫘦	akoe·马丨ㄋ丿丶
+𫘦	akoe·马丨丶一丿
 𫘦	akoe·马勹丿一一丨
 𫘦	akoe·马丿丶丶丶
 𫘦	akoe·马文丶一丿丶
@@ -32336,7 +32336,7 @@
 𫘝	avor·马爫ㄋㄋ丶一
 𫘝	avor·马厂丿丨ㄋ一
 𫘝	avor·马是丨ㄋ一一
-𫘝	avor·马丨ㄋ丿丶
+𫘝	avor·马丨丶一丿
 𫘝	avor·马勹丿一一丨
 𫘝	avor·马丿丶丶丶
 𫘝	avor·马文丶一丿丶
@@ -32531,7 +32531,7 @@
 𫘜	anreo·马爫ㄋㄋ丶一
 𫘜	anreo·马厂丿丨ㄋ一
 𫘜	anreo·马是丨ㄋ一一
-𫘜	anreo·马丨ㄋ丿丶
+𫘜	anreo·马丨丶一丿
 𫘜	anreo·马勹丿一一丨
 𫘜	anreo·马丿丶丶丶
 𫘜	anreo·马文丶一丿丶
@@ -32726,7 +32726,7 @@
 𫗴	pbiui·马爫ㄋㄋ丶一
 𫗴	pbiui·马厂丿丨ㄋ一
 𫗴	pbiui·马是丨ㄋ一一
-𫗴	pbiui·马丨ㄋ丿丶
+𫗴	pbiui·马丨丶一丿
 𫗴	pbiui·马勹丿一一丨
 𫗴	pbiui·马丿丶丶丶
 𫗴	pbiui·马文丶一丿丶
@@ -32921,7 +32921,7 @@
 𫗧	pzei·马爫ㄋㄋ丶一
 𫗧	pzei·马厂丿丨ㄋ一
 𫗧	pzei·马是丨ㄋ一一
-𫗧	pzei·马丨ㄋ丿丶
+𫗧	pzei·马丨丶一丿
 𫗧	pzei·马勹丿一一丨
 𫗧	pzei·马丿丶丶丶
 𫗧	pzei·马文丶一丿丶
@@ -33116,7 +33116,7 @@
 𫖳	ckeoi·马爫ㄋㄋ丶一
 𫖳	ckeoi·马厂丿丨ㄋ一
 𫖳	ckeoi·马是丨ㄋ一一
-𫖳	ckeoi·马丨ㄋ丿丶
+𫖳	ckeoi·马丨丶一丿
 𫖳	ckeoi·马勹丿一一丨
 𫖳	ckeoi·马丿丶丶丶
 𫖳	ckeoi·马文丶一丿丶
@@ -33311,7 +33311,7 @@
 𫖯	xneoi·马爫ㄋㄋ丶一
 𫖯	xneoi·马厂丿丨ㄋ一
 𫖯	xneoi·马是丨ㄋ一一
-𫖯	xneoi·马丨ㄋ丿丶
+𫖯	xneoi·马丨丶一丿
 𫖯	xneoi·马勹丿一一丨
 𫖯	xneoi·马丿丶丶丶
 𫖯	xneoi·马文丶一丿丶
@@ -33506,7 +33506,7 @@
 𫖮	ygeo·马爫ㄋㄋ丶一
 𫖮	ygeo·马厂丿丨ㄋ一
 𫖮	ygeo·马是丨ㄋ一一
-𫖮	ygeo·马丨ㄋ丿丶
+𫖮	ygeo·马丨丶一丿
 𫖮	ygeo·马勹丿一一丨
 𫖮	ygeo·马丿丶丶丶
 𫖮	ygeo·马文丶一丿丶
@@ -33701,7 +33701,7 @@
 𫔶	fjeio·马爫ㄋㄋ丶一
 𫔶	fjeio·马厂丿丨ㄋ一
 𫔶	fjeio·马是丨ㄋ一一
-𫔶	fjeio·马丨ㄋ丿丶
+𫔶	fjeio·马丨丶一丿
 𫔶	fjeio·马勹丿一一丨
 𫔶	fjeio·马丿丶丶丶
 𫔶	fjeio·马文丶一丿丶
@@ -33896,7 +33896,7 @@
 𫔎	vhiuo·马爫ㄋㄋ丶一
 𫔎	vhiuo·马厂丿丨ㄋ一
 𫔎	vhiuo·马是丨ㄋ一一
-𫔎	vhiuo·马丨ㄋ丿丶
+𫔎	vhiuo·马丨丶一丿
 𫔎	vhiuo·马勹丿一一丨
 𫔎	vhiuo·马丿丶丶丶
 𫔎	vhiuo·马文丶一丿丶
@@ -34091,7 +34091,7 @@
 𫔍	vmiu·马爫ㄋㄋ丶一
 𫔍	vmiu·马厂丿丨ㄋ一
 𫔍	vmiu·马是丨ㄋ一一
-𫔍	vmiu·马丨ㄋ丿丶
+𫔍	vmiu·马丨丶一丿
 𫔍	vmiu·马勹丿一一丨
 𫔍	vmiu·马丿丶丶丶
 𫔍	vmiu·马文丶一丿丶
@@ -34286,7 +34286,7 @@
 𫓹	vgei·马爫ㄋㄋ丶一
 𫓹	vgei·马厂丿丨ㄋ一
 𫓹	vgei·马是丨ㄋ一一
-𫓹	vgei·马丨ㄋ丿丶
+𫓹	vgei·马丨丶一丿
 𫓹	vgei·马勹丿一一丨
 𫓹	vgei·马丿丶丶丶
 𫓹	vgei·马文丶一丿丶
@@ -34481,7 +34481,7 @@
 𫓶	vkiuee·马爫ㄋㄋ丶一
 𫓶	vkiuee·马厂丿丨ㄋ一
 𫓶	vkiuee·马是丨ㄋ一一
-𫓶	vkiuee·马丨ㄋ丿丶
+𫓶	vkiuee·马丨丶一丿
 𫓶	vkiuee·马勹丿一一丨
 𫓶	vkiuee·马丿丶丶丶
 𫓶	vkiuee·马文丶一丿丶
@@ -34676,7 +34676,7 @@
 𫓯	vheie·马爫ㄋㄋ丶一
 𫓯	vheie·马厂丿丨ㄋ一
 𫓯	vheie·马是丨ㄋ一一
-𫓯	vheie·马丨ㄋ丿丶
+𫓯	vheie·马丨丶一丿
 𫓯	vheie·马勹丿一一丨
 𫓯	vheie·马丿丶丶丶
 𫓯	vheie·马文丶一丿丶
@@ -34871,7 +34871,7 @@
 𫓧	vjeeo·马爫ㄋㄋ丶一
 𫓧	vjeeo·马厂丿丨ㄋ一
 𫓧	vjeeo·马是丨ㄋ一一
-𫓧	vjeeo·马丨ㄋ丿丶
+𫓧	vjeeo·马丨丶一丿
 𫓧	vjeeo·马勹丿一一丨
 𫓧	vjeeo·马丿丶丶丶
 𫓧	vjeeo·马文丶一丿丶
@@ -35066,7 +35066,7 @@
 𫑡	kwuui·马爫ㄋㄋ丶一
 𫑡	kwuui·马厂丿丨ㄋ一
 𫑡	kwuui·马是丨ㄋ一一
-𫑡	kwuui·马丨ㄋ丿丶
+𫑡	kwuui·马丨丶一丿
 𫑡	kwuui·马勹丿一一丨
 𫑡	kwuui·马丿丶丶丶
 𫑡	kwuui·马文丶一丿丶
@@ -35261,7 +35261,7 @@
 𫐓	yheio·马爫ㄋㄋ丶一
 𫐓	yheio·马厂丿丨ㄋ一
 𫐓	yheio·马是丨ㄋ一一
-𫐓	yheio·马丨ㄋ丿丶
+𫐓	yheio·马丨丶一丿
 𫐓	yheio·马勹丿一一丨
 𫐓	yheio·马丿丶丶丶
 𫐓	yheio·马文丶一丿丶
@@ -35456,7 +35456,7 @@
 𫐐	ytouu·马爫ㄋㄋ丶一
 𫐐	ytouu·马厂丿丨ㄋ一
 𫐐	ytouu·马是丨ㄋ一一
-𫐐	ytouu·马丨ㄋ丿丶
+𫐐	ytouu·马丨丶一丿
 𫐐	ytouu·马勹丿一一丨
 𫐐	ytouu·马丿丶丶丶
 𫐐	ytouu·马文丶一丿丶
@@ -35651,7 +35651,7 @@
 𫐄	yjouuu·马爫ㄋㄋ丶一
 𫐄	yjouuu·马厂丿丨ㄋ一
 𫐄	yjouuu·马是丨ㄋ一一
-𫐄	yjouuu·马丨ㄋ丿丶
+𫐄	yjouuu·马丨丶一丿
 𫐄	yjouuu·马勹丿一一丨
 𫐄	yjouuu·马丿丶丶丶
 𫐄	yjouuu·马文丶一丿丶
@@ -35846,7 +35846,7 @@
 𫍽	scei·马爫ㄋㄋ丶一
 𫍽	scei·马厂丿丨ㄋ一
 𫍽	scei·马是丨ㄋ一一
-𫍽	scei·马丨ㄋ丿丶
+𫍽	scei·马丨丶一丿
 𫍽	scei·马勹丿一一丨
 𫍽	scei·马丿丶丶丶
 𫍽	scei·马文丶一丿丶
@@ -36041,7 +36041,7 @@
 𫍲	stiur·马爫ㄋㄋ丶一
 𫍲	stiur·马厂丿丨ㄋ一
 𫍲	stiur·马是丨ㄋ一一
-𫍲	stiur·马丨ㄋ丿丶
+𫍲	stiur·马丨丶一丿
 𫍲	stiur·马勹丿一一丨
 𫍲	stiur·马丿丶丶丶
 𫍲	stiur·马文丶一丿丶
@@ -36236,7 +36236,7 @@
 𫍯	skeiue·马爫ㄋㄋ丶一
 𫍯	skeiue·马厂丿丨ㄋ一
 𫍯	skeiue·马是丨ㄋ一一
-𫍯	skeiue·马丨ㄋ丿丶
+𫍯	skeiue·马丨丶一丿
 𫍯	skeiue·马勹丿一一丨
 𫍯	skeiue·马丿丶丶丶
 𫍯	skeiue·马文丶一丿丶
@@ -36431,7 +36431,7 @@
 𫍣	sseiu·马爫ㄋㄋ丶一
 𫍣	sseiu·马厂丿丨ㄋ一
 𫍣	sseiu·马是丨ㄋ一一
-𫍣	sseiu·马丨ㄋ丿丶
+𫍣	sseiu·马丨丶一丿
 𫍣	sseiu·马勹丿一一丨
 𫍣	sseiu·马丿丶丶丶
 𫍣	sseiu·马文丶一丿丶
@@ -36626,7 +36626,7 @@
 𫌀	hxiuo·马爫ㄋㄋ丶一
 𫌀	hxiuo·马厂丿丨ㄋ一
 𫌀	hxiuo·马是丨ㄋ一一
-𫌀	hxiuo·马丨ㄋ丿丶
+𫌀	hxiuo·马丨丶一丿
 𫌀	hxiuo·马勹丿一一丨
 𫌀	hxiuo·马丿丶丶丶
 𫌀	hxiuo·马文丶一丿丶
@@ -36821,7 +36821,7 @@
 𫇭	fjuo·马爫ㄋㄋ丶一
 𫇭	fjuo·马厂丿丨ㄋ一
 𫇭	fjuo·马是丨ㄋ一一
-𫇭	fjuo·马丨ㄋ丿丶
+𫇭	fjuo·马丨丶一丿
 𫇭	fjuo·马勹丿一一丨
 𫇭	fjuo·马丿丶丶丶
 𫇭	fjuo·马文丶一丿丶
@@ -37016,7 +37016,7 @@
 𫄸	xniu·马爫ㄋㄋ丶一
 𫄸	xniu·马厂丿丨ㄋ一
 𫄸	xniu·马是丨ㄋ一一
-𫄸	xniu·马丨ㄋ丿丶
+𫄸	xniu·马丨丶一丿
 𫄸	xniu·马勹丿一一丨
 𫄸	xniu·马丿丶丶丶
 𫄸	xniu·马文丶一丿丶
@@ -37211,7 +37211,7 @@
 𫄷	xmru·马爫ㄋㄋ丶一
 𫄷	xmru·马厂丿丨ㄋ一
 𫄷	xmru·马是丨ㄋ一一
-𫄷	xmru·马丨ㄋ丿丶
+𫄷	xmru·马丨丶一丿
 𫄷	xmru·马勹丿一一丨
 𫄷	xmru·马丿丶丶丶
 𫄷	xmru·马文丶一丿丶
@@ -37406,7 +37406,7 @@
 𫄨	xheo·马爫ㄋㄋ丶一
 𫄨	xheo·马厂丿丨ㄋ一
 𫄨	xheo·马是丨ㄋ一一
-𫄨	xheo·马丨ㄋ丿丶
+𫄨	xheo·马丨丶一丿
 𫄨	xheo·马勹丿一一丨
 𫄨	xheo·马丿丶丶丶
 𫄨	xheo·马文丶一丿丶
@@ -37601,7 +37601,7 @@
 𪾢	bfiuo·马爫ㄋㄋ丶一
 𪾢	bfiuo·马厂丿丨ㄋ一
 𪾢	bfiuo·马是丨ㄋ一一
-𪾢	bfiuo·马丨ㄋ丿丶
+𪾢	bfiuo·马丨丶一丿
 𪾢	bfiuo·马勹丿一一丨
 𪾢	bfiuo·马丿丶丶丶
 𪾢	bfiuo·马文丶一丿丶
@@ -37796,7 +37796,7 @@
 𪩘	ypiu·马爫ㄋㄋ丶一
 𪩘	ypiu·马厂丿丨ㄋ一
 𪩘	ypiu·马是丨ㄋ一一
-𪩘	ypiu·马丨ㄋ丿丶
+𪩘	ypiu·马丨丶一丿
 𪩘	ypiu·马勹丿一一丨
 𪩘	ypiu·马丿丶丶丶
 𪩘	ypiu·马文丶一丿丶
@@ -37991,7 +37991,7 @@
 𪨶	ykeue·马爫ㄋㄋ丶一
 𪨶	ykeue·马厂丿丨ㄋ一
 𪨶	ykeue·马是丨ㄋ一一
-𪨶	ykeue·马丨ㄋ丿丶
+𪨶	ykeue·马丨丶一丿
 𪨶	ykeue·马勹丿一一丨
 𪨶	ykeue·马丿丶丶丶
 𪨶	ykeue·马文丶一丿丶
@@ -38186,7 +38186,7 @@
 𪨰	yaiuei·马爫ㄋㄋ丶一
 𪨰	yaiuei·马厂丿丨ㄋ一
 𪨰	yaiuei·马是丨ㄋ一一
-𪨰	yaiuei·马丨ㄋ丿丶
+𪨰	yaiuei·马丨丶一丿
 𪨰	yaiuei·马勹丿一一丨
 𪨰	yaiuei·马丿丶丶丶
 𪨰	yaiuei·马文丶一丿丶
@@ -38381,7 +38381,7 @@
 𪤗	lyoro·马爫ㄋㄋ丶一
 𪤗	lyoro·马厂丿丨ㄋ一
 𪤗	lyoro·马是丨ㄋ一一
-𪤗	lyoro·马丨ㄋ丿丶
+𪤗	lyoro·马丨丶一丿
 𪤗	lyoro·马勹丿一一丨
 𪤗	lyoro·马丿丶丶丶
 𪤗	lyoro·马文丶一丿丶
@@ -38576,7 +38576,7 @@
 𪣻	lquoe·马爫ㄋㄋ丶一
 𪣻	lquoe·马厂丿丨ㄋ一
 𪣻	lquoe·马是丨ㄋ一一
-𪣻	lquoe·马丨ㄋ丿丶
+𪣻	lquoe·马丨丶一丿
 𪣻	lquoe·马勹丿一一丨
 𪣻	lquoe·马丿丶丶丶
 𪣻	lquoe·马文丶一丿丶
@@ -38771,7 +38771,7 @@
 𪟝	xduo·马爫ㄋㄋ丶一
 𪟝	xduo·马厂丿丨ㄋ一
 𪟝	xduo·马是丨ㄋ一一
-𪟝	xduo·马丨ㄋ丿丶
+𪟝	xduo·马丨丶一丿
 𪟝	xduo·马勹丿一一丨
 𪟝	xduo·马丿丶丶丶
 𪟝	xduo·马文丶一丿丶
@@ -38966,7 +38966,7 @@
 𩾌	dauee·马爫ㄋㄋ丶一
 𩾌	dauee·马厂丿丨ㄋ一
 𩾌	dauee·马是丨ㄋ一一
-𩾌	dauee·马丨ㄋ丿丶
+𩾌	dauee·马丨丶一丿
 𩾌	dauee·马勹丿一一丨
 𩾌	dauee·马丿丶丶丶
 𩾌	dauee·马文丶一丿丶
@@ -39161,7 +39161,7 @@
 𩾃	dwouu·马爫ㄋㄋ丶一
 𩾃	dwouu·马厂丿丨ㄋ一
 𩾃	dwouu·马是丨ㄋ一一
-𩾃	dwouu·马丨ㄋ丿丶
+𩾃	dwouu·马丨丶一丿
 𩾃	dwouu·马勹丿一一丨
 𩾃	dwouu·马丿丶丶丶
 𩾃	dwouu·马文丶一丿丶
@@ -39356,7 +39356,7 @@
 𩽾	dvuo·马爫ㄋㄋ丶一
 𩽾	dvuo·马厂丿丨ㄋ一
 𩽾	dvuo·马是丨ㄋ一一
-𩽾	dvuo·马丨ㄋ丿丶
+𩽾	dvuo·马丨丶一丿
 𩽾	dvuo·马勹丿一一丨
 𩽾	dvuo·马丿丶丶丶
 𩽾	dvuo·马文丶一丿丶
@@ -39551,7 +39551,7 @@
 𨺙	ytou·马爫ㄋㄋ丶一
 𨺙	ytou·马厂丿丨ㄋ一
 𨺙	ytou·马是丨ㄋ一一
-𨺙	ytou·马丨ㄋ丿丶
+𨺙	ytou·马丨丶一丿
 𨺙	ytou·马勹丿一一丨
 𨺙	ytou·马丿丶丶丶
 𨺙	ytou·马文丶一丿丶
@@ -39746,7 +39746,7 @@
 𨱔	vdei·马爫ㄋㄋ丶一
 𨱔	vdei·马厂丿丨ㄋ一
 𨱔	vdei·马是丨ㄋ一一
-𨱔	vdei·马丨ㄋ丿丶
+𨱔	vdei·马丨丶一丿
 𨱔	vdei·马勹丿一一丨
 𨱔	vdei·马丿丶丶丶
 𨱔	vdei·马文丶一丿丶
@@ -39941,7 +39941,7 @@
 𨱑	vpiue·马爫ㄋㄋ丶一
 𨱑	vpiue·马厂丿丨ㄋ一
 𨱑	vpiue·马是丨ㄋ一一
-𨱑	vpiue·马丨ㄋ丿丶
+𨱑	vpiue·马丨丶一丿
 𨱑	vpiue·马勹丿一一丨
 𨱑	vpiue·马丿丶丶丶
 𨱑	vpiue·马文丶一丿丶
@@ -40136,7 +40136,7 @@
 𨱏	vfor·马爫ㄋㄋ丶一
 𨱏	vfor·马厂丿丨ㄋ一
 𨱏	vfor·马是丨ㄋ一一
-𨱏	vfor·马丨ㄋ丿丶
+𨱏	vfor·马丨丶一丿
 𨱏	vfor·马勹丿一一丨
 𨱏	vfor·马丿丶丶丶
 𨱏	vfor·马文丶一丿丶
@@ -40331,7 +40331,7 @@
 𨱇	vweir·马爫ㄋㄋ丶一
 𨱇	vweir·马厂丿丨ㄋ一
 𨱇	vweir·马是丨ㄋ一一
-𨱇	vweir·马丨ㄋ丿丶
+𨱇	vweir·马丨丶一丿
 𨱇	vweir·马勹丿一一丨
 𨱇	vweir·马丿丶丶丶
 𨱇	vweir·马文丶一丿丶
@@ -40526,7 +40526,7 @@
 𨭉	njeuro·马爫ㄋㄋ丶一
 𨭉	njeuro·马厂丿丨ㄋ一
 𨭉	njeuro·马是丨ㄋ一一
-𨭉	njeuro·马丨ㄋ丿丶
+𨭉	njeuro·马丨丶一丿
 𨭉	njeuro·马勹丿一一丨
 𨭉	njeuro·马丿丶丶丶
 𨭉	njeuro·马文丶一丿丶
@@ -40721,7 +40721,7 @@
 𨟠	bboire·马爫ㄋㄋ丶一
 𨟠	bboire·马厂丿丨ㄋ一
 𨟠	bboire·马是丨ㄋ一一
-𨟠	bboire·马丨ㄋ丿丶
+𨟠	bboire·马丨丶一丿
 𨟠	bboire·马勹丿一一丨
 𨟠	bboire·马丿丶丶丶
 𨟠	bboire·马文丶一丿丶
@@ -40916,7 +40916,7 @@
 𨚕	cnui·马爫ㄋㄋ丶一
 𨚕	cnui·马厂丿丨ㄋ一
 𨚕	cnui·马是丨ㄋ一一
-𨚕	cnui·马丨ㄋ丿丶
+𨚕	cnui·马丨丶一丿
 𨚕	cnui·马勹丿一一丨
 𨚕	cnui·马丿丶丶丶
 𨚕	cnui·马文丶一丿丶
@@ -41111,7 +41111,7 @@
 𨙸	pfui·马爫ㄋㄋ丶一
 𨙸	pfui·马厂丿丨ㄋ一
 𨙸	pfui·马是丨ㄋ一一
-𨙸	pfui·马丨ㄋ丿丶
+𨙸	pfui·马丨丶一丿
 𨙸	pfui·马勹丿一一丨
 𨙸	pfui·马丿丶丶丶
 𨙸	pfui·马文丶一丿丶
@@ -41306,7 +41306,7 @@
 𨐈	yhir·马爫ㄋㄋ丶一
 𨐈	yhir·马厂丿丨ㄋ一
 𨐈	yhir·马是丨ㄋ一一
-𨐈	yhir·马丨ㄋ丿丶
+𨐈	yhir·马丨丶一丿
 𨐈	yhir·马勹丿一一丨
 𨐈	yhir·马丿丶丶丶
 𨐈	yhir·马文丶一丿丶
@@ -41501,7 +41501,7 @@
 𧿹	zvuu·马爫ㄋㄋ丶一
 𧿹	zvuu·马厂丿丨ㄋ一
 𧿹	zvuu·马是丨ㄋ一一
-𧿹	zvuu·马丨ㄋ丿丶
+𧿹	zvuu·马丨丶一丿
 𧿹	zvuu·马勹丿一一丨
 𧿹	zvuu·马丿丶丶丶
 𧿹	zvuu·马文丶一丿丶
@@ -41696,7 +41696,7 @@
 𦰡	fsuii·马爫ㄋㄋ丶一
 𦰡	fsuii·马厂丿丨ㄋ一
 𦰡	fsuii·马是丨ㄋ一一
-𦰡	fsuii·马丨ㄋ丿丶
+𦰡	fsuii·马丨丶一丿
 𦰡	fsuii·马勹丿一一丨
 𦰡	fsuii·马丿丶丶丶
 𦰡	fsuii·马文丶一丿丶
@@ -41891,7 +41891,7 @@
 𦭜	fkor·马爫ㄋㄋ丶一
 𦭜	fkor·马厂丿丨ㄋ一
 𦭜	fkor·马是丨ㄋ一一
-𦭜	fkor·马丨ㄋ丿丶
+𦭜	fkor·马丨丶一丿
 𦭜	fkor·马勹丿一一丨
 𦭜	fkor·马丿丶丶丶
 𦭜	fkor·马文丶一丿丶
@@ -42086,7 +42086,7 @@
 𦝼	hquo·马爫ㄋㄋ丶一
 𦝼	hquo·马厂丿丨ㄋ一
 𦝼	hquo·马是丨ㄋ一一
-𦝼	hquo·马丨ㄋ丿丶
+𦝼	hquo·马丨丶一丿
 𦝼	hquo·马勹丿一一丨
 𦝼	hquo·马丿丶丶丶
 𦝼	hquo·马文丶一丿丶
@@ -42281,7 +42281,7 @@
 𦙶	hveiiu·马爫ㄋㄋ丶一
 𦙶	hveiiu·马厂丿丨ㄋ一
 𦙶	hveiiu·马是丨ㄋ一一
-𦙶	hveiiu·马丨ㄋ丿丶
+𦙶	hveiiu·马丨丶一丿
 𦙶	hveiiu·马勹丿一一丨
 𦙶	hveiiu·马丿丶丶丶
 𦙶	hveiiu·马文丶一丿丶
@@ -42476,7 +42476,7 @@
 𦒍	hgur·马爫ㄋㄋ丶一
 𦒍	hgur·马厂丿丨ㄋ一
 𦒍	hgur·马是丨ㄋ一一
-𦒍	hgur·马丨ㄋ丿丶
+𦒍	hgur·马丨丶一丿
 𦒍	hgur·马勹丿一一丨
 𦒍	hgur·马丿丶丶丶
 𦒍	hgur·马文丶一丿丶
@@ -42671,7 +42671,7 @@
 𦈡	xpeo·马爫ㄋㄋ丶一
 𦈡	xpeo·马厂丿丨ㄋ一
 𦈡	xpeo·马是丨ㄋ一一
-𦈡	xpeo·马丨ㄋ丿丶
+𦈡	xpeo·马丨丶一丿
 𦈡	xpeo·马勹丿一一丨
 𦈡	xpeo·马丿丶丶丶
 𦈡	xpeo·马文丶一丿丶
@@ -42866,7 +42866,7 @@
 𥻗	qtiuee·马爫ㄋㄋ丶一
 𥻗	qtiuee·马厂丿丨ㄋ一
 𥻗	qtiuee·马是丨ㄋ一一
-𥻗	qtiuee·马丨ㄋ丿丶
+𥻗	qtiuee·马丨丶一丿
 𥻗	qtiuee·马勹丿一一丨
 𥻗	qtiuee·马丿丶丶丶
 𥻗	qtiuee·马文丶一丿丶
@@ -43061,7 +43061,7 @@
 𥖨	dkiuei·马爫ㄋㄋ丶一
 𥖨	dkiuei·马厂丿丨ㄋ一
 𥖨	dkiuei·马是丨ㄋ一一
-𥖨	dkiuei·马丨ㄋ丿丶
+𥖨	dkiuei·马丨丶一丿
 𥖨	dkiuei·马勹丿一一丨
 𥖨	dkiuei·马丿丶丶丶
 𥖨	dkiuei·马文丶一丿丶
@@ -43256,7 +43256,7 @@
 𥕢	djiuei·马爫ㄋㄋ丶一
 𥕢	djiuei·马厂丿丨ㄋ一
 𥕢	djiuei·马是丨ㄋ一一
-𥕢	djiuei·马丨ㄋ丿丶
+𥕢	djiuei·马丨丶一丿
 𥕢	djiuei·马勹丿一一丨
 𥕢	djiuei·马丿丶丶丶
 𥕢	djiuei·马文丶一丿丶
@@ -43451,7 +43451,7 @@
 𥔲	dheeu·马爫ㄋㄋ丶一
 𥔲	dheeu·马厂丿丨ㄋ一
 𥔲	dheeu·马是丨ㄋ一一
-𥔲	dheeu·马丨ㄋ丿丶
+𥔲	dheeu·马丨丶一丿
 𥔲	dheeu·马勹丿一一丨
 𥔲	dheeu·马丿丶丶丶
 𥔲	dheeu·马文丶一丿丶
@@ -43646,7 +43646,7 @@
 𤫉	spre·马爫ㄋㄋ丶一
 𤫉	spre·马厂丿丨ㄋ一
 𤫉	spre·马是丨ㄋ一一
-𤫉	spre·马丨ㄋ丿丶
+𤫉	spre·马丨丶一丿
 𤫉	spre·马勹丿一一丨
 𤫉	spre·马丿丶丶丶
 𤫉	spre·马文丶一丿丶
@@ -43841,7 +43841,7 @@
 𤩽	spiuro·马爫ㄋㄋ丶一
 𤩽	spiuro·马厂丿丨ㄋ一
 𤩽	spiuro·马是丨ㄋ一一
-𤩽	spiuro·马丨ㄋ丿丶
+𤩽	spiuro·马丨丶一丿
 𤩽	spiuro·马勹丿一一丨
 𤩽	spiuro·马丿丶丶丶
 𤩽	spiuro·马文丶一丿丶
@@ -44036,7 +44036,7 @@
 𤧛	shiui·马爫ㄋㄋ丶一
 𤧛	shiui·马厂丿丨ㄋ一
 𤧛	shiui·马是丨ㄋ一一
-𤧛	shiui·马丨ㄋ丿丶
+𤧛	shiui·马丨丶一丿
 𤧛	shiui·马勹丿一一丨
 𤧛	shiui·马丿丶丶丶
 𤧛	shiui·马文丶一丿丶
@@ -44231,7 +44231,7 @@
 𣸣	npeiii·马爫ㄋㄋ丶一
 𣸣	npeiii·马厂丿丨ㄋ一
 𣸣	npeiii·马是丨ㄋ一一
-𣸣	npeiii·马丨ㄋ丿丶
+𣸣	npeiii·马丨丶一丿
 𣸣	npeiii·马勹丿一一丨
 𣸣	npeiii·马丿丶丶丶
 𣸣	npeiii·马文丶一丿丶
@@ -44426,7 +44426,7 @@
 𣲘	njeou·马爫ㄋㄋ丶一
 𣲘	njeou·马厂丿丨ㄋ一
 𣲘	njeou·马是丨ㄋ一一
-𣲘	njeou·马丨ㄋ丿丶
+𣲘	njeou·马丨丶一丿
 𣲘	njeou·马勹丿一一丨
 𣲘	njeou·马丿丶丶丶
 𣲘	njeou·马文丶一丿丶
@@ -44621,7 +44621,7 @@
 𣲗	njeeu·马爫ㄋㄋ丶一
 𣲗	njeeu·马厂丿丨ㄋ一
 𣲗	njeeu·马是丨ㄋ一一
-𣲗	njeeu·马丨ㄋ丿丶
+𣲗	njeeu·马丨丶一丿
 𣲗	njeeu·马勹丿一一丨
 𣲗	njeeu·马丿丶丶丶
 𣲗	njeeu·马文丶一丿丶
@@ -44816,7 +44816,7 @@
 𣗋	lcouu·马爫ㄋㄋ丶一
 𣗋	lcouu·马厂丿丨ㄋ一
 𣗋	lcouu·马是丨ㄋ一一
-𣗋	lcouu·马丨ㄋ丿丶
+𣗋	lcouu·马丨丶一丿
 𣗋	lcouu·马勹丿一一丨
 𣗋	lcouu·马丿丶丶丶
 𣗋	lcouu·马文丶一丿丶
@@ -45011,7 +45011,7 @@
 𡐓	lauee·马爫ㄋㄋ丶一
 𡐓	lauee·马厂丿丨ㄋ一
 𡐓	lauee·马是丨ㄋ一一
-𡐓	lauee·马丨ㄋ丿丶
+𡐓	lauee·马丨丶一丿
 𡐓	lauee·马勹丿一一丨
 𡐓	lauee·马丿丶丶丶
 𡐓	lauee·马文丶一丿丶
@@ -45206,7 +45206,7 @@
 𡎚	ltiuei·马爫ㄋㄋ丶一
 𡎚	ltiuei·马厂丿丨ㄋ一
 𡎚	ltiuei·马是丨ㄋ一一
-𡎚	ltiuei·马丨ㄋ丿丶
+𡎚	ltiuei·马丨丶一丿
 𡎚	ltiuei·马勹丿一一丨
 𡎚	ltiuei·马丿丶丶丶
 𡎚	ltiuei·马文丶一丿丶
@@ -45401,7 +45401,7 @@
 𠳐	kxui·马爫ㄋㄋ丶一
 𠳐	kxui·马厂丿丨ㄋ一
 𠳐	kxui·马是丨ㄋ一一
-𠳐	kxui·马丨ㄋ丿丶
+𠳐	kxui·马丨丶一丿
 𠳐	kxui·马勹丿一一丨
 𠳐	kxui·马丿丶丶丶
 𠳐	kxui·马文丶一丿丶
@@ -45596,7 +45596,7 @@
 𠙶	csuii·马爫ㄋㄋ丶一
 𠙶	csuii·马厂丿丨ㄋ一
 𠙶	csuii·马是丨ㄋ一一
-𠙶	csuii·马丨ㄋ丿丶
+𠙶	csuii·马丨丶一丿
 𠙶	csuii·马勹丿一一丨
 𠙶	csuii·马丿丶丶丶
 𠙶	csuii·马文丶一丿丶
@@ -45791,7 +45791,7 @@
 𠅤	bgr·马爫ㄋㄋ丶一
 𠅤	bgr·马厂丿丨ㄋ一
 𠅤	bgr·马是丨ㄋ一一
-𠅤	bgr·马丨ㄋ丿丶
+𠅤	bgr·马丨丶一丿
 𠅤	bgr·马勹丿一一丨
 𠅤	bgr·马丿丶丶丶
 𠅤	bgr·马文丶一丿丶
