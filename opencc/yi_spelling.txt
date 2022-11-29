@@ -3036,7 +3036,7 @@
 蕙	fjiuee·艹一⼁⺂⼀⼀
 觑	djiuo·虍业⼁⺂⼃⺂
 蝇	bkiu·虫口⼁⺂⼀⼀
-泻	nque·氵冖⺂⼀⼀⼀
+泻	nqeu·氵冖⼀⺂⼀⼀
 蜘	bvi·虫矢⼁⺂⼀⼀
 虾	bleir·虫下⼀⼁⼂⼂
 瞻	bho·目厃⼃⼂⼂⼀
@@ -4093,7 +4093,7 @@
 蔗	fdr·艹⼂⼂⼂⼂
 樟	tmei·木音⼀⼁⼁⼁
 轶	yjee·车丿⼀⼀⼃⼂
-绺	xnir·纟夂⼁⼂⼂⼂
+绺	xnir·纟夂⼁⼂⼁⺂
 篡	lbe·⺮目⼀⼃⼂⺂
 汶	nnreo·氵文⼂⼀⼃⼂
 葆	psiuee·𦫻呆⼁⺂⼀⼀
@@ -4267,7 +4267,7 @@
 噫	kmr·口音⼂⺂⼂⼂
 谆	sgui·讠⺂⼁⼀⼀
 羚	kqorr·羊令⼃⼂⼂⺂
-泯	nqueu·氵民⺂⼀⺂⼀
+泯	nque·氵民⺂⼀⺂⼀
 孀	mpeio·女⻗⼀⼁⼃⼂
 缜	xhor·纟直⼃⼂⼂⼂
 怏	hseo·忄冂⼀⼃⼂⼂
@@ -4289,7 +4289,7 @@
 颧	fhoi·艹吅⼃⼁⼂⼀
 赧	cwur·赤卩⺂⼂⼂⼂
 蠹	bdiu·石⼁⺂⼀⼁
-藜	fco·艹禾⼃⺂⺂⺂
+藜	fco·艹禾⼃⺂⼃⼃
 湮	nteie·氵覀⼀⼁⼀⼀
 榛	tloe·木𡗗⼃⼀⼁⼃
 娆	mpeu·女尧⼀⺂⼃⼀
@@ -4606,7 +4606,7 @@
 胱	hhiro·月光⼁⼂⼃⼀
 悒	hkui·忄口⺂⼁⼀⺂
 鳍	dfou·鱼耂⼃⺂⼁⺂
-嘁	kkie·口戊⼁⼀⼀⼀
+嘁	kkie·口戊⼁⼀⼀⼁
 蟑	bme·虫音⼀⼁⼁⼁
 秸	cnei·禾吉⼀⼁⼀⼁
 栉	tfuii·木艹⺂⼁⼁⼁
@@ -4949,7 +4949,7 @@
 蕲	fhoo·艹单⼃⼃⼀⼁
 崂	ywuoo·山𫇦⺂⼃⼃⼃
 噌	kwro·口曾⼂⼃⼁⺂
-锲	vxu·钅丰⺂⼃⼃⼃
+锲	vxu·钅丰⺂⼃⼀⼃
 蚱	bzoe·虫乍⼃⼀⼁⼀
 牦	cwoee·牜毛⼃⼀⼀⺂
 煊	pveiu·火宀⼀⼁⺂⼀
@@ -5081,7 +5081,7 @@
 蓿	fvor·艹宀⼃⼂⼀⼃
 硷	dqrr·石亼⼂⼂⼃⼀
 畈	gaurr·田⺁⺂⼂⼂⼂
-崧	ytor·山木⼃⼂⼂⼂
+崧	ytor·山木⼃⼂⺂⼂
 醴	taeiue·酉曲⼀⼁⺂⼀
 踟	zviu·⻊矢⼁⺂⼀⼀
 赝	ajoire·厂亻⼃⼁⼂⼀
@@ -5937,7 +5937,7 @@
 逄	njrur·夂㐄⼂⺂⼂⼂
 诔	sdeee·讠耒⼀⼀⼀⼁
 蛳	bneiu·虫⼀⼁⺂⼁
-菘	ftorr·艹木⼃⼂⼂⼂
+菘	ftoru·艹木⼃⼂⺂⼂
 缶	yoe·缶⼃⼀⼀⼁⺂
 祓	hdurr·礻𠂇⺂⼂⼂⼂
 碁	gdeoi·其石⼀⼃⼁⺂
@@ -5989,7 +5989,7 @@
 纻	xvee·纟宀⼀⼀⼀⼀
 粝	qae·米厂⼀⺂⼃⼃
 簋	lhiui·⺮艮⼁⺂⼁⼁
-矇	bfeii·目艹⼀⼁⼁⼁
+矇	bwee·目𫇦⼀⼀⼃⺂
 畋	gnoeo·田攵⼃⼀⼃⼂
 甍	wqeuu·𦭝冖⼀⺂⺂⼂
 燋	pmrr·火隹⼂⼂⼂⼂
@@ -6056,7 +6056,7 @@
 鋈	nfor·氵夭⼃⼂⼀⼀
 醌	tweuo·酉日⼀⺂⼃⺂
 蚍	bmeu·虫比⼀⺂⼃⺂
-薅	fmeo·艹女⼀⼃⼃⼃
+薅	fmeo·艹女⼀⼃⼀⼀
 萁	fgeii·艹其⼀⼁⼁⼀
 芄	fgrr·艹九⼂⼂⼂⼂
 胍	hyoour·月瓜⼃⼃⺂⼂
@@ -6069,12 +6069,12 @@
 戽	tweiii·户⺀⼀⼁⼁⼁
 愔	hmrer·忄音⼂⼀⼂⼃
 嫠	dneou·未攵⼀⼃⺂⼃
-卺	cnerr·了⼀⼂⼂⼂
+卺	cneu·了⼀⺂⺂⺂
 麹	xnour·龶夂⼃⺂⼂⼃
 鹣	yfou·兼鸟⼃⺂⼂⺂
 鲅	ddur·鱼𠂇⺂⼂⼂⼂
 鞬	qsur·革聿⺂⼂⼂⼂
-躞	zpr·⻊火⼂⼀⼀⼀
+躞	zsr·⻊言⼂⼃⼃⼂
 躔	zaiu·⻊广⼁⺂⼀⼀
 躐	zwi·⻊巛⼁⺂⼀⺂
 豨	hheoiu·豕乂⼀⼃⼁⺂
@@ -6100,7 +6100,7 @@
 僦	jleo·亻京⼀⼃⺂⼂
 鲮	dlo·鱼土⼃⼂⼃⺂
 阇	ffeie·门者⼀⼁⼀⼃
-郇	kmui·勹隹⺂⼁⼁⼁
+郇	kwuii·勹日⺂⼁⼁⼁
 谝	stiu·讠户⼁⺂⼀⼁
 詟	lsree·龙言⼂⼀⼀⼀
 襻	htoro·衤木⼃⼂⼃⼂
@@ -6178,7 +6178,7 @@
 舳	paiuei·舟由⼁⺂⼀⼁
 舡	pleie·舟工⼀⼁⼀⼀
 肫	hbe·月屯⼀⺂⼁⺂
-羰	kyeoo·⺶山⼀⼃⼃⼃
+羰	kyeor·⺶山⼀⼃⼂⼃
 罽	car·罒厂⼂⼃⼃⼂
 祼	hweio·礻日⼀⼁⼃⼂
 矬	vfeiee·矢从⼀⼁⼀⼀
@@ -6409,7 +6409,7 @@
 谫	sauo·讠前⺂⼃⼃⼃
 谇	sbor·讠亠⼃⼂⼃⼂
 襜	hhorre·衤厃⼃⼂⼂⼀
-蠓	bwee·虫𫇦⼀⼀⼃⺂
+蠓	bweeo·虫𫇦⼀⼀⼃⺂
 蜞	bgei·虫其⼀⼁⼁⼀
 虮	baouu·虫几⼃⺂⺂⺂
 蒽	fqr·艹因⼂⺂⼂⼂
@@ -6570,7 +6570,7 @@
 裈	hqeue·衤冖⼀⺂⼀⼁
 蛏	bfeiee·虫又⼀⼁⼀⼀
 蒨	phee·𦫻青⼀⼀⼁⼀
-菔	fhui·艹月⺂⼁⼁⼁
+菔	fhui·艹月⺂⼁⺂⼂
 粢	pqr·次米⼂⼃⼀⼁
 硙	dyueu·石山⺂⼀⺂⺂
 瘅	lhroi·疒单⼂⼃⼁⺂
@@ -6604,7 +6604,7 @@
 郤	fdiueu·八人⼁⺂⼀⺂
 蟪	bjiue·虫一⼁⺂⼀⼀
 葜	fxuo·艹丰⺂⼃⼀⼃
-菝	fgeoo·艹扌⼀⼃⼃⼃
+菝	fgeou·艹扌⼀⼃⺂⼂
 舲	pqorru·舟令⼃⼂⼂⺂
 缲	xkiuei·纟口⼁⺂⼀⼁
 笱	lkiuee·⺮勹⼁⺂⼀⼀
@@ -7226,7 +7226,7 @@
 靰	qjouu·革一⼃⺂⺂⺂
 镲	vvour·钅宀⼃⺂⼂⼂
 镱	vmru·钅音⼂⺂⼂⼂
-镩	vvorr·钅宀⼃⼂⼂⼂
+镩	vdiuei·钅穴⼁⺂⼀⼁
 镨	vaii·钅䒑⼁⼁⼂⼃
 镚	vyoue·钅山⼃⺂⼀⼀
 镅	vziu·钅𠃜⼁⺂⼀⼀
@@ -8021,7 +8021,7 @@
 𥖨	dkiuei·石口⼁⺂⼀⼁
 𥕢	djiuei·石一⼁⺂⼀⼁
 𥔲	dheeu·石吅⼀⼀⺂⺂
-𤫉	spre·王火⼂⼀⼀⼀
+𤫉	ssroo·王言⼂⼃⼃⼂
 𤩽	spiuro·王十⼁⺂⼂⼃
 𤧛	shiui·王⼁⺂⼁⼁
 𣸣	npeiii·氵十⼀⼁⼁⼁
