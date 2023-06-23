@@ -4027,7 +4027,7 @@
 咛	kveii·口宀⼀⼁⼁⼁
 蟠	bmi·虫釆⼁⺂⼀⼁
 瞌	bwi·目去⼁⺂⼁⼁
-汩	nkee·氵囗⼀⼀⼀⼀
+汩	nwiuee·氵曰⼁⺂⼀⼀
 瞑	bqi·目冖⼁⺂⼀⼀
 熹	akrr·壴口⼂⼂⼂⼂
 搪	gaue·扌广⺂⼀⼀⼁
@@ -6239,7 +6239,7 @@
 璺	tseiue·𦥑冂⼀⼁⺂⼀
 澶	nbiui·氵亠⼁⺂⼁⺂
 溦	nyeou·氵山⼀⼃⺂⼃
-洿	nkeeu·氵大⼀⼀⺂⺂
+洿	nkee·氵大⼀⼀⺂⺂
 沢	nkueo·氵尺⺂⼀⼃⼂
 氪	vvouuu·气古⼃⺂⺂⺂
 栝	tnoe·木舌⼃⼀⼁⼁
@@ -7076,7 +7076,7 @@
 澉	nteii·氵乛⼀⼁⼁⼀
 滫	njoeo·氵⼃⼀⼃⼂
 淜	nhou·氵月⼃⺂⼀⼀
-涠	nkeeui·氵囗⼀⼀⺂⼁
+涠	nkeeu·氵囗⼀⼀⺂⼁
 洺	nbiuee·氵夕⼁⺂⼀⼀
 沲	nvui·氵𠂉⺂⼁⺂⺂
 棁	tkou·木𠮦⼃⺂⺂⺂
