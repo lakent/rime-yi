@@ -6454,8 +6454,8 @@
 趼	zneeo·⻊开⼀⼀⼃⼁
 貘	dyeii·豸莫⼀⼁⼁⼁
 诼	shrrr·讠豕⼂⼂⼂⼂
-蚵	baiu·虫丁⼁⺂⼀⼀
-蚰	baiue·虫由⼁⺂⼀⼁
+蚵	bgeiu·虫可⼀⼁⺂⼀
+蚰	baiu·虫由⼁⺂⼀⼁
 薷	fpeoi·艹⻗⼀⼃⼁⺂
 蒗	yjue·落丶⺂⼀⼀⺂
 苘	fsiuee·艹冂⼁⺂⼀⼀
@@ -7392,7 +7392,7 @@
 铻	vjiue·钅五⼁⺂⼀⼀
 铴	vnu·钅氵⺂⼃⼃⼃
 铕	vdiuee·钅𠂇⼁⺂⼀⼀
-钶	vaiuee·钅丁⼁⺂⼀⼀
+钶	vgei·钅可⼀⼁⺂⼀
 钘	vneeo·钅开⼀⼀⼃⼁
 钋	vlir·钅卜⼁⼂⼂⼂
 鄅	jkiuie·丿口⼁⺂⼁⼀
@@ -7973,7 +7973,7 @@
 𫔶	fjeio·门自⼀⼁⼃⼂
 𫔎	vhiuo·钅矛⼁⺂⼃⼂
 𫔍	vmiu·钅釆⼁⺂⼀⼁
-𫓹	vgei·钅其⼀⼁⼁⼀
+𫓹	vgeii·钅其⼀⼁⼁⼀
 𫓶	vkiuee·钅口⼁⺂⼀⼀
 𫓯	vheie·钅圭⼀⼁⼀⼀
 𫓧	vjeeo·钅夫⼀⼀⼃⼂
