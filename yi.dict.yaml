@@ -247,7 +247,7 @@ columns:
 算	lb
 海	nv
 脸	hq
-花	fyo
+花	pn
 龙	leo
 连	yrr
 战	tke
@@ -1057,7 +1057,7 @@ columns:
 浪	nju
 亦	preo
 抗	gb
-烦	pn
+烦	pne
 班	snee
 盖	kci
 宗	vse
@@ -2036,7 +2036,7 @@ columns:
 肌	haouu
 捏	gwei
 屠	zfe
-患	kvr
+患	vkr
 尉	zse
 驰	adu
 翁	cyu
@@ -2099,7 +2099,7 @@ columns:
 咳	khr
 栏	tae
 帘	dyiu
-颈	pne
+颈	pneo
 拓	gdeo
 汪	nsee
 秒	cvi
@@ -2315,7 +2315,7 @@ columns:
 兮	fweuu
 寡	vdiue
 斑	sneei
-窜	dkiue
+窜	dviu
 颠	hfeo
 拱	gpe
 坠	ydei
@@ -2414,7 +2414,7 @@ columns:
 砰	dhe
 崩	yho
 耿	ypr
-钧	vkr
+钧	vkre
 茂	fkeo
 恕	mkru
 佑	jdiu
@@ -2628,7 +2628,7 @@ columns:
 厄	agu
 绽	xpr
 胀	hboe
-苟	dkiuee
+苟	dkiue
 朽	tweuu
 蜀	ckiue
 彬	mwo
@@ -2768,7 +2768,7 @@ columns:
 聘	yaeu
 膏	gkiuee
 遁	apiu
-荫	fyou
+荫	fyo
 咙	kleo
 嚣	hniu
 朦	hweeo
@@ -2906,7 +2906,7 @@ columns:
 扳	gaur
 熏	nxi
 咸	kleiu
-栅	tsi
+栅	tsoue
 纲	xsor
 旱	wnee
 嗜	kfou
@@ -3513,7 +3513,7 @@ columns:
 吝	nkiue
 闵	fnre
 惺	hwoee
-卉	pneo
+卉	pneoi
 鲸	dlre
 掺	gcoo
 睨	bto
@@ -3980,16 +3980,16 @@ columns:
 蟆	byeii
 皋	dkeii
 卞	jleir
-飓	aheu
+飓	ahi
 翊	hyure
 闩	fjeee
 脓	hlru
 镣	vkroi
-箕	lgor
+箕	lgei
 壹	bheiu
 呷	kaiue
 溉	nteu
-胄	ahi
+胄	ahiu
 瑙	swoi
 驸	ajeir
 悖	hbui
@@ -4052,7 +4052,7 @@ columns:
 戍	kjrrr
 莓	fvu
 蓟	fdii
-跚	zsi
+跚	zso
 龛	cleo
 俸	jlee
 魇	apo
@@ -4221,14 +4221,14 @@ columns:
 竣	hcoro
 殇	bvu
 痣	llrurr
-谪	shiuo
+谪	shiue
 脐	hnoi
 犊	cpur
 谙	smre
 皑	dyue
 渤	nbu
 斫	dqoo
-泗	nkou
+泗	nciuo
 蒿	fgi
 掇	gfu
 淆	nheo
@@ -4354,7 +4354,7 @@ columns:
 蜃	ybiu
 蛆	bbi
 菀	fvour
-弈	pneoi
+弈	pneoii
 髭	btie
 蜓	bsur
 洱	nyeii
@@ -4365,7 +4365,7 @@ columns:
 辇	jjeu
 惇	hguie
 邋	wkorur
-坷	lgei
+坷	lgeiu
 啮	khie
 腴	htorr
 楫	tkeii
@@ -4377,7 +4377,7 @@ columns:
 雹	pkueu
 霾	pdiuee
 雉	vmoir
-狒	pxue
+狒	pxo
 匐	kliue
 琨	sweuo
 瘀	lmor
@@ -4458,7 +4458,7 @@ columns:
 摈	gvoi
 峋	ykiue
 沱	nvouu
-谲	shiuor
+谲	shiuo
 诋	smrr
 犄	ckeiu
 泸	nlu
@@ -4481,7 +4481,7 @@ columns:
 蹇	hkieo
 蟀	bbuu
 蛀	bkr
-剽	tsii
+剽	tsi
 糗	qjeo
 淙	nveei
 饪	pso
@@ -4608,7 +4608,7 @@ columns:
 骛	hnu
 痨	lwuo
 鹂	cfou
-蠡	ahiu
+蠡	ahiue
 畦	gheiee
 汞	lniu
 铰	vqor
@@ -4769,7 +4769,7 @@ columns:
 摁	gqrur
 庖	akue
 鲑	dheie
-赍	pfr
+赍	bfiu
 萋	fju
 犒	cgiu
 幂	qwe
@@ -4978,7 +4978,7 @@ columns:
 芩	fqorr
 掮	gtiu
 囿	kdiuee
-儆	jfoui
+儆	jdiue
 侩	jdee
 仝	dleiee
 蛔	bxiu
@@ -5043,7 +5043,7 @@ columns:
 魈	sciuee
 葭	fqu
 瑷	syeou
-焖	pfru
+焖	pfr
 郜	jyuii
 磔	dbeui
 狲	psio
@@ -5088,7 +5088,7 @@ columns:
 墉	laue
 埭	lcire
 讦	sneeii
-蓿	fvor
+蓿	fvoi
 硷	dqrr
 畈	gaurr
 崧	ytor
@@ -5222,7 +5222,7 @@ columns:
 衽	hsoei
 珪	sheie
 猡	pco
-猕	pxo
+猕	pxou
 曷	wkoruu
 轳	ylu
 蜇	mbiue
@@ -5244,7 +5244,7 @@ columns:
 垟	lkroe
 砦	tdeoi
 椴	tgoi
-麴	pdoro
+麴	pfor
 蜮	bkiuee
 眬	bleo
 痼	lkeii
@@ -5540,7 +5540,7 @@ columns:
 痿	lcuo
 坩	ldei
 圪	lvuu
-嘧	kvru
+嘧	kvr
 麸	xneeo
 隈	ygeuo
 锱	vwiue
@@ -5550,7 +5550,7 @@ columns:
 糅	qheior
 柙	taiue
 昴	wpou
-慝	vfeor
+慝	vfeoi
 嬛	mce
 鲱	dzi
 锨	vqou
@@ -5606,7 +5606,7 @@ columns:
 偾	jpei
 伛	jme
 髂	mvou
-隳	ydeieo
+隳	ydeiei
 铩	vhei
 荇	ffee
 篪	laie
@@ -5628,9 +5628,9 @@ columns:
 橛	tar
 樗	tpee
 怙	hveiiu
-侑	jdiue
+侑	jdiuee
 蹚	zce
-趿	zso
+趿	zsou
 蝣	bdui
 苴	fbiuee
 脔	plo
@@ -5665,8 +5665,8 @@ columns:
 蹓	zpi
 蓊	fcur
 翥	fyur
-秭	cxrou
-疴	lgeiu
+秭	cxou
+疴	lgeiue
 槲	thrr
 曩	wbiue
 嘞	kquo
@@ -5745,7 +5745,7 @@ columns:
 謇	hsre
 蠖	bfo
 蝽	bliue
-蚬	bfiu
+蚬	bfiuo
 腚	hprr
 沔	nkuu
 塬	laoi
@@ -6031,7 +6031,7 @@ columns:
 佺	jdeei
 亶	bxiue
 鲊	dzoei
-镪	vxiuee
+镪	vxiuei
 鄯	kaiueu
 踔	zli
 赪	cliu
@@ -6116,7 +6116,7 @@ columns:
 襻	htoro
 裒	btou
 粜	ysroe
-籥	lciuei
+籥	lqiuei
 籀	lgou
 笮	lzoe
 熘	ppiuei
@@ -6148,7 +6148,7 @@ columns:
 埴	lheii
 嗞	kauur
 冇	dsiuu
-鹾	lko
+鹾	thro
 鹁	bsou
 隹	moi
 闿	fyue
@@ -6168,7 +6168,7 @@ columns:
 梃	tsu
 朐	hkiuee
 旰	wneei
-擿	ghiuo
+擿	ghiuei
 忮	hpurrr
 崁	ylou
 尪	xsee
@@ -6216,7 +6216,7 @@ columns:
 缊	xwiui
 糸	duu
 簏	lmre
-笫	lxro
+笫	lxo
 涴	nvour
 浼	nwouu
 浯	njiuee
@@ -6435,7 +6435,7 @@ columns:
 瀹	nqiuei
 滉	nwir
 浐	nheoo
-榘	vkeue
+榘	vvueei
 掊	ghiuee
 恓	hteiuo
 庳	adoi
@@ -6503,7 +6503,7 @@ columns:
 鳔	dtee
 鲯	dgei
 鞒	qfoi
-镮	vlou
+镮	vceiu
 镧	vfeiu
 镆	vyeiii
 锸	vnoie
@@ -6532,7 +6532,7 @@ columns:
 龠	qhiue
 鲿	dcru
 饹	pzour
-飔	ahiue
+飔	ahiuei
 颟	fforo
 铪	vcor
 钕	vmuo
@@ -6552,7 +6552,7 @@ columns:
 砟	dzoeie
 眭	bheiee
 甪	jtoue
-漶	nkiuei
+漶	nviue
 洳	nmiue
 汆	dniuor
 毐	lvuuo
@@ -6625,7 +6625,7 @@ columns:
 畬	qtiue
 璁	szoure
 牂	kkroee
-渖	nviue
+渖	nviuee
 洧	ndiuee
 氡	vnrr
 榖	bcou
@@ -6660,7 +6660,7 @@ columns:
 蠛	bweo
 蝤	bdro
 虼	bvuu
-蔸	fdoiue
+蔸	fdouue
 茈	ftiei
 艋	psiui
 臑	hpeoiu
@@ -6736,7 +6736,7 @@ columns:
 熇	pgiuee
 渫	ndue
 淠	ngiuei
-浡	npru
+浡	nbui
 氾	nguuu
 氍	bboire
 欻	ppo
@@ -6837,7 +6837,7 @@ columns:
 镋	vcouu
 锽	vdeei
 锇	vwoe
-铏	vnee
+铏	vnii
 跐	ztie
 赟	njeie
 謦	lzouur
@@ -6888,7 +6888,7 @@ columns:
 剞	kgiii
 佧	jlirr
 伈	jlrur
-龂	hqui
+龂	hqooei
 鼷	tyuu
 鹴	pvour
 鹨	ydoooo
@@ -6896,13 +6896,13 @@ columns:
 鞡	qgre
 鞔	qwouu
 闶	fbou
-镴	vwiueu
+镴	vwiuo
 镈	vfeir
 锾	vyee
 锛	vkeieo
 铷	vmi
 辌	ylre
-踶	zsiu
+踶	zsi
 赗	dwiuee
 赒	dseiei
 谿	ypeor
@@ -6937,7 +6937,7 @@ columns:
 猰	pxuo
 狝	paoui
 爝	pyiuii
-爚	pciuei
+爚	pqiu
 烔	pseiu
 橑	tkro
 椐	tzei
@@ -7000,10 +7000,10 @@ columns:
 羕	kjuuo
 绱	xciui
 纴	xsoei
-糒	qpoo
-簰	lkoi
+糒	qpoi
+簰	lko
 簉	ljru
-篼	ldouo
+篼	ldouu
 筥	lkiuee
 稆	ckiuee
 祃	hauue
@@ -7059,7 +7059,7 @@ columns:
 邶	zyui
 遹	hsoriu
 辒	ywiuii
-蹜	zvor
+蹜	zvoi
 趯	myoi
 赕	dpro
 裉	hhuee
@@ -7084,7 +7084,7 @@ columns:
 焞	pgui
 澛	ndiuee
 澉	nteii
-滫	njoeo
+滫	njouri
 淜	nhou
 涠	nkeeu
 洺	nbiuee
@@ -7141,7 +7141,7 @@ columns:
 讱	ssrrr
 蝘	bviue
 虒	adou
-薢	nhuoo
+薢	fhuo
 蕻	fbei
 蒟	fhoui
 菂	fdour
@@ -7398,12 +7398,12 @@ columns:
 镄	vxoii
 锿	vgouo
 锫	vhiue
-锘	vfeoi
+锘	vfeoiu
 铻	vjiue
 铴	vnu
 铕	vdiuee
 钶	vgei
-钘	vneeo
+钘	vnee
 钋	vlir
 鄅	jkiuie
 郪	jsuo
@@ -7471,8 +7471,8 @@ columns:
 煺	phru
 煟	pgiuee
 烻	pjie
-炟	pqiu
-澂	nyeoe
+炟	pqiue
+澂	nyeee
 淴	njrurr
 淟	naorrr
 浰	ncii
@@ -7486,7 +7486,7 @@ columns:
 椸	tduiu
 梽	tlrur
 梴	tjie
-桲	tpru
+桲	tbu
 栻	tkeiee
 栟	taeo
 晐	whreu
@@ -7543,13 +7543,13 @@ columns:
 丏	ktuu
 齉	jgeiu
 鼩	tkiuee
-鼒	tbu
+鼒	tbue
 麖	mlre
 鹱	ffoir
 鹝	lfour
 鸼	pfour
 鳡	dkeiue
-鳆	dviu
+鳆	dviue
 鲺	dpo
 鲝	kdouiu
 鱾	dgueu
@@ -7650,7 +7650,7 @@ columns:
 畖	gyoo
 瓀	speoi
 璬	sdre
-璥	sfou
+璥	sdiue
 璒	syeiu
 瑬	nxoiue
 瑝	sdeeie
@@ -7722,7 +7722,7 @@ columns:
 涍	nfui
 浲	nneeei
 浭	nbei
-浟	njoeor
+浟	njoeo
 浛	nqiuee
 洭	nveeie
 洨	nqorrr
@@ -7747,7 +7747,7 @@ columns:
 梾	tdro
 梣	tyorr
 梌	tqei
-栴	tviu
+栴	tvoure
 栐	tjuu
 柖	tsiuee
 枍	tfeuu
@@ -7809,7 +7809,7 @@ columns:
 妭	mdur
 妘	mmee
 墣	ljro
-墘	lxo
+墘	lxoe
 堽	lcei
 堼	hjeie
 堧	lyeo
@@ -7965,7 +7965,7 @@ columns:
 𫟅	xlreiu
 𫞩	sfeiuo
 𫛭	psou
-𫚭	dwiueu
+𫚭	dwiuor
 𫚖	tdou
 𫚕	dneiu
 𫘬	ayuu
@@ -8000,7 +8000,7 @@ columns:
 𫄸	xniu
 𫄷	xmru
 𫄨	xheo
-𪾢	bfiuo
+𪾢	bfiuou
 𪩘	ypiu
 𪨶	ykeue
 𪨰	yaiuei
@@ -8083,7 +8083,7 @@ columns:
 瑓	szro
 琈	syuie
 珢	shuee
-珛	sdiue
+珛	sdiuee
 珋	spo
 玤	sxe
 牻	cxoo
@@ -8197,7 +8197,7 @@ columns:
 㿠	dhir
 㽏	nceii
 㻬	speeu
-㺄	pqiue
+㺄	pqiuee
 㸌	ppoi
 㸆	pjiee
 㶲	ptoue
